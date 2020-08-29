@@ -1,0 +1,245 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com with LMTP id EPd8KyWRP1sd0w0Au/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Fri, 06 Jul 2018 10:56:21 -0500
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Fri, 06 Jul 2018 10:56:21 -0500
+Received: from gateway20.websitewelcome.com ([192.185.54.2]:31534)
+	by prizm.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	id 1fbT5p-003qiX-Mb
+	for svrtravelsindia@prizm.websitewelcome.com; Fri, 06 Jul 2018 10:56:21 -0500
+Received: by gateway20.websitewelcome.com (Postfix)
+	id 19868400D8207; Fri,  6 Jul 2018 10:56:21 -0500 (CDT)
+Date: Fri,  6 Jul 2018 10:56:21 -0500 (CDT)
+From: MAILER-DAEMON@gateway20.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: svrtravelsindia@prizm.websitewelcome.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="CF5A0400D70B5.1530892581/gateway20.websitewelcome.com"
+Message-Id: <20180706155621.19868400D8207@gateway20.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--CF5A0400D70B5.1530892581/gateway20.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway20.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<info@svrtravelsindia.com>: host aspmx.l.google.com[108.177.8.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser o66-v6si3998356oif.119 -
+    gsmtp (in reply to RCPT TO command)
+
+--CF5A0400D70B5.1530892581/gateway20.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway20.websitewelcome.com
+X-Postfix-Queue-ID: CF5A0400D70B5
+X-Postfix-Sender: rfc822; svrtravelsindia@prizm.websitewelcome.com
+Arrival-Date: Fri,  6 Jul 2018 10:56:20 -0500 (CDT)
+
+Final-Recipient: rfc822; info@svrtravelsindia.com
+Original-Recipient: rfc822;info@svrtravelsindia.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser o66-v6si3998356oif.119 -
+    gsmtp
+
+--CF5A0400D70B5.1530892581/gateway20.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from cm11.websitewelcome.com (cm11.websitewelcome.com [100.42.49.5])
+	by gateway20.websitewelcome.com (Postfix) with ESMTP id CF5A0400D70B5
+	for <info@svrtravelsindia.com>; Fri,  6 Jul 2018 10:56:20 -0500 (CDT)
+Received: from prizm.websitewelcome.com ([192.185.12.45])
+	by cmsmtp with SMTP
+	id bT5ofvtjvRPojbT5ofW5zv; Fri, 06 Jul 2018 10:56:20 -0500
+X-Authority-Reason: nr=8
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.91)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1fbT5n-003qhR-U5; Fri, 06 Jul 2018 10:56:20 -0500
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: SVR Travels India Ticket - 83AGQTQ8
+X-PHP-Script: www.svrtravelsindia.com/confirm-ticket.php for 104.129.198.66
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1fbT5n-003qhR-U5@prizm.websitewelcome.com>
+Date: Fri, 06 Jul 2018 10:56:19 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - prizm.websitewelcome.com
+X-AntiAbuse: Original Domain - svrtravelsindia.com
+X-AntiAbuse: Originator/Caller UID/GID - [12673 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - prizm.websitewelcome.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1fbT5n-003qhR-U5
+X-Source: 
+X-Source-Args: /usr/bin/php /home/svrtravelsindia/public_html/confirm-ticket.php 
+X-Source-Dir: svrtravelsindia.com:/public_html
+X-Source-Sender: 
+X-Source-Auth: svrtravelsindia
+X-Email-Count: 5
+X-Org: HG=hgreseller;ORG=hostgator;
+X-Source-Cap: c3ZydHJhdmVsc2luZGlhO2JpdHJhd2ViO3ByaXptLndlYnNpdGV3ZWxjb21lLmNvbQ==
+X-Local-Domain: yes
+
+<style type='text/css'>
+	table, td, th { font-family: Verdana; font-size:12px; }
+	.clr { color: #FFFFFF; font-weight: bold; }</style>
+	<table width='500' border='0' align='center' cellpadding='5' cellspacing='0' style='border-bottom:2px solid #aaa'>	
+	  <tr>
+		<td height='30' align='center' valign='middle' bgcolor='#F2F2F2'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+			  <tr>
+				<td align='center' valign='top'><a href='http://www.svrtravelsindia.com/' target='_blank'>
+				<img src='http://www.svrtravelsindia.com/images/svr-travels.jpg' alt='svrtravelsindia' border='0' /></a></td>
+			  </tr>
+			  <tr>
+				<td align='center' valign='middle' bgcolor='#D50000'><table width='100%' border='0' cellspacing='0' cellpadding='0'>
+				  <tr>
+					<td height='40' align='center' valign='middle'>
+						<span class='clr' style='color: #FFFFFF; font-weight: bold;'>SVR Travels India Ticket - 83AGQTQ8</span>
+					</td>
+				  </tr>
+				</table>			  
+				</td>
+			  </tr>
+			</table>			
+		</td>
+	  </tr>
+	  <tr>
+		<td align='center' valign='top' bgcolor='#F2F2F2'><table width='100%' border='0' align='center' cellpadding='3' cellspacing='2' style='margin:10px;'>
+		  <tr>
+			<td colspan=3>Dear Customer,</td>
+		  </tr>
+		  <tr>
+			<td colspan=3>Congratulations! Your ticket for Hyderabad to Shirdi on July 06, 2018 at 09:24 PM has been confirmed.</td>
+		  </tr>
+		  <tr>
+			<td width='15%'><strong>Ticket No</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>83AGQTQ8</td>
+		  </tr><tr>
+		<td width='15%'><strong>Your Email</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>radharamji@gmail.com</td>
+	  </tr>
+	  <tr>
+		<td width='15%'><strong>Contact Number</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>9849348413</td>
+	  </tr>
+	  <tr>
+		<td width='15%'><strong>Trip ID</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>1001847027511716004</td>
+	  </tr>
+	  <tr>
+		<td nowrap='nowrap'><strong>Journey</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td nowrap='nowrap' align='left'>Hyderabad --> Shirdi, July 14, 2018 09:35 PM</td>
+	  </tr>
+	  <tr>
+		<td><strong>No. of Persons</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>2</td>
+	  </tr>
+	  <tr>
+		<td><strong>Seat(s)</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>U11, U10</td>
+	  </tr>
+	  <tr>
+		<td><strong>Total Fare</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Rs. 3,129.00</td>
+	  </tr>
+	  <tr>
+		<td><strong>Travel</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>SVR Tours and Travels  Volvo A/C Multi Axle Sleeper(2+1)</td>
+	  </tr>
+	  <tr>
+		<td nowrap=nowrap><strong>Boarding Details</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Boarding from Miyapur - 09:35 PM</td>
+	  </tr><tr>
+		<td colspan=3><b>Hotel Details</b></td>
+	  </tr>
+	  <tr>
+		<td nowrap=nowrap><strong>Hotel Name</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Hotel Sai Gurusthan</td>
+	  </tr>
+	  <tr>
+		<td nowrap=nowrap><strong>Hotel Address</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left' width='250px'>Behind Hotel Neeta, Tal Rahata, Pimpalwadi Road, Shirdi, Maharashtra 423109.</td>
+	  </tr>
+	  <tr>
+		<td nowrap=nowrap><strong>Hotel Contact Number</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>+91-2423-256999, +91-8888-520520</td>
+	  </tr>
+	  <tr>
+		<td nowrap=nowrap><strong>Hotel Email-Id</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>hotelsaigurusthan@gmail.com</td>
+	  </tr>
+      <tr>
+		<td nowrap=nowrap><strong>Check-In Date</strong></td>
+		<td align='center'><strong>:</strong></td><td align='left'>July 15, 2018 </td></tr>
+       <tr>
+		<td nowrap=nowrap><strong>Check-out Date</strong></td>
+		<td align='center'><strong>:</strong></td><td align='left'>July 16, 2018 </td></tr>
+       <tr>
+		<td nowrap=nowrap><strong>No. of Persons</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>2</td>
+	  </tr>
+       <tr>
+		<td nowrap=nowrap><strong>Hotel Charge</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Rs.1,800.00</td>
+	  </tr><tr>
+		<td colspan=3>&nbsp;</td>
+	  </tr>
+	  <tr>
+		<td colspan=3>Best Regards,<br>---<br>Your friends at SVR Travels</td>
+	  </tr>
+	  <tr>
+		<td colspan=3><div><em>E-mail us: <a href='mailto:support@svrtraveslindia.com' target='_blank'>support@svrtraveslindia.com</a></em></div>
+		  <div><em>Call us: +91 9848828289 / +91 9705008289.</em></div></td>
+	  </tr>
+	</table></td>
+	  </tr>
+	</table>
+
+--CF5A0400D70B5.1530892581/gateway20.websitewelcome.com--

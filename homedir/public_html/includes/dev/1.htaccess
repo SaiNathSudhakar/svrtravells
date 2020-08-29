@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /dev
+
+RewriteRule destination-details/lid/(.*)/(.*)/ destination-details.php?lid=$1
+RewriteRule destination-details/lid/(.*)/(.*) destination-details.php?lid=$1	
+
+RewriteRule destination/sid/(.*)/ destination.php?sid=$1
+
+
+RewriteRule destination/sid/(.*)/ssid/(.*)/(.*) destination.php?sid=$1&ssid=$2
+RewriteRule destination/sid/(.*)/ssid/(.*)/(.*) destination.php?sid=$1&ssid=$2	

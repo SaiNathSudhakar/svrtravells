@@ -1,0 +1,137 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com with LMTP id ADziLOB+S1vNNQcAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Sun, 15 Jul 2018 12:05:36 -0500
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Sun, 15 Jul 2018 12:05:36 -0500
+Received: from mailnull by prizm.websitewelcome.com with local (Exim 4.91)
+	id 1fekSl-001yyG-Qh
+	for svrtravelsindia@prizm.websitewelcome.com; Sun, 15 Jul 2018 12:05:35 -0500
+X-Failed-Recipients: sample@email.tst
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@prizm.websitewelcome.com>
+To: svrtravelsindia@prizm.websitewelcome.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1531674335-eximdsn-1480979645
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fekSl-001yyG-Qh@prizm.websitewelcome.com>
+Date: Sun, 15 Jul 2018 12:05:35 -0500
+
+--1531674335-eximdsn-1480979645
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sample@email.tst
+    host cm.websitewelcome.com [100.42.49.18]
+    SMTP error from remote mail server after RCPT TO:<sample@email.tst>:
+    550 5.1.1 <sample@email.tst> recipient rejected
+
+--1531674335-eximdsn-1480979645
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; prizm.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;sample@email.tst
+Status: 5.0.0
+Remote-MTA: dns; cm.websitewelcome.com
+Diagnostic-Code: smtp; 550 5.1.1 <sample@email.tst> recipient rejected
+
+--1531674335-eximdsn-1480979645
+Content-type: message/rfc822
+
+Return-path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.91)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1fekSi-001yvf-ST; Sun, 15 Jul 2018 12:05:32 -0500
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: Visa Enquiry Details From SVR Travels India
+X-PHP-Script: www.svrtravelsindia.com/visa.php for 117.204.114.128
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1fekSi-001yvf-ST@prizm.websitewelcome.com>
+Date: Sun, 15 Jul 2018 12:05:32 -0500
+
+<style type='text/css'>
+	table, td, th { font-family: Verdana; font-size:12px; }
+	.clr { color: #FFFFFF; font-weight: bold; }</style>
+	<table width='500' border='0' align='center' cellpadding='5' cellspacing='0' style='border-bottom:2px solid #aaa'>	
+	  <tr>
+		<td height='30' align='center' valign='middle' bgcolor='#F2F2F2'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+			  <tr>
+				<td align='center' valign='top'><a href='http://www.svrtravelsindia.com/' target='_blank'>
+				<img src='http://www.svrtravelsindia.com/images/svr-travels.jpg' alt='svrtravelsindia' border='0' /></a></td>
+			  </tr>
+			  <tr>
+				<td align='center' valign='middle' bgcolor='#D50000'><table width='100%' border='0' cellspacing='0' cellpadding='0'>
+				  <tr>
+					<td height='40' align='center' valign='middle'>
+						<span class='clr' style='color: #FFFFFF; font-weight: bold;'>Visa Enquiry Details From SVR Travels India</span>
+					</td>
+				  </tr>
+				</table>			  
+				</td>
+			  </tr>
+			</table>			
+		</td>
+	  </tr>
+	  <tr>
+		<td align='center' valign='top' bgcolor='#F2F2F2'><table width='100%' border='0' align='center' cellpadding='6' cellspacing='2' style='margin:10px;'>
+		 <tr>
+			<td width='25%'><strong>Travel Date</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>1967-01-01</td>
+		  </tr>
+		  <tr>
+			<td width='25%'><strong>Name</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>quobkibe</td>
+		  </tr>
+		  <tr>
+			<td width='25%'><strong>No. of People</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>3</td>
+		  </tr>
+		  <tr>
+			<td ><strong>Phone</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>555-666-0606</td>
+		  </tr>
+		  <tr>
+			<td><strong>E-Mail</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>sample@email.tst</td>
+		  </tr>
+		  <tr>
+			<td nowrap='nowrap'><strong>Address</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>3137 Laguna Street</td>
+		  </tr>
+		  <tr>
+			<td><strong>City</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>San Francisco</td>
+		  </tr>
+		  <tr >
+			<td nowrap='nowrap'><strong>State</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>Andhra Pradesh</td>
+		  </tr>
+		  <tr>
+			<td nowrap='nowrap'><strong>Country</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>USA</td>
+		  </tr>
+		  </table></td>
+	  </tr>
+	</table>
+
+--1531674335-eximdsn-1480979645--

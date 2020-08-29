@@ -1,0 +1,200 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com (Dovecot) with LMTP id EVhrEz5gfloAMAwAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Fri, 09 Feb 2018 21:00:14 -0600
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Fri, 09 Feb 2018 21:00:14 -0600
+Received: from gateway34.websitewelcome.com ([192.185.148.194]:29595)
+	by prizm.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	id 1ekLOg-003Lzp-7v
+	for svrtravelsindia@prizm.websitewelcome.com; Fri, 09 Feb 2018 21:00:14 -0600
+Received: by gateway34.websitewelcome.com (Postfix)
+	id 24F03ED9D8; Fri,  9 Feb 2018 21:00:14 -0600 (CST)
+Date: Fri,  9 Feb 2018 21:00:14 -0600 (CST)
+From: MAILER-DAEMON@gateway34.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: svrtravelsindia@prizm.websitewelcome.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="F18C3ED9D0.1518231614/gateway34.websitewelcome.com"
+Message-Id: <20180210030014.24F03ED9D8@gateway34.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--F18C3ED9D0.1518231614/gateway34.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway34.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<info@svrtravelsindia.com>: host aspmx.l.google.com[173.194.70.27] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser p3si1323083ote.143 - gsmtp
+    (in reply to RCPT TO command)
+
+--F18C3ED9D0.1518231614/gateway34.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway34.websitewelcome.com
+X-Postfix-Queue-ID: F18C3ED9D0
+X-Postfix-Sender: rfc822; svrtravelsindia@prizm.websitewelcome.com
+Arrival-Date: Fri,  9 Feb 2018 21:00:13 -0600 (CST)
+
+Final-Recipient: rfc822; info@svrtravelsindia.com
+Original-Recipient: rfc822;info@svrtravelsindia.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser p3si1323083ote.143 - gsmtp
+
+--F18C3ED9D0.1518231614/gateway34.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from cm17.websitewelcome.com (cm17.websitewelcome.com [100.42.49.20])
+	by gateway34.websitewelcome.com (Postfix) with ESMTP id F18C3ED9D0
+	for <info@svrtravelsindia.com>; Fri,  9 Feb 2018 21:00:13 -0600 (CST)
+Received: from prizm.websitewelcome.com ([192.185.12.45])
+	by cmsmtp with SMTP
+	id kLOfeqixTuMnykLOfeWrUj; Fri, 09 Feb 2018 21:00:13 -0600
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.89_1)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1ekLOf-003Lz0-GQ; Fri, 09 Feb 2018 21:00:13 -0600
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: Agent Registration Details from SVR Travels India
+X-PHP-Script: www.svrtravelsindia.com/agent-registration.php for 27.63.50.72
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1ekLOf-003Lz0-GQ@prizm.websitewelcome.com>
+Date: Fri, 09 Feb 2018 21:00:13 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - prizm.websitewelcome.com
+X-AntiAbuse: Original Domain - svrtravelsindia.com
+X-AntiAbuse: Originator/Caller UID/GID - [12673 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - prizm.websitewelcome.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1ekLOf-003Lz0-GQ
+X-Source: /opt/php54/bin/php-cgi
+X-Source-Args: /usr/bin/php /home/svrtravelsindia/public_html/agent-registration.php 
+X-Source-Dir: svrtravelsindia.com:/public_html
+X-Source-Sender: 
+X-Source-Auth: svrtravelsindia
+X-Email-Count: 5
+X-Source-Cap: c3ZydHJhdmVsc2luZGlhO2JpdHJhd2ViO3ByaXptLndlYnNpdGV3ZWxjb21lLmNvbQ==
+X-Local-Domain: yes
+
+<style type='text/css'>
+	table, td, th { font-family: Verdana; font-size:12px; }
+	.clr { color: #FFFFFF; font-weight: bold; }</style>
+	<table width='500' border='0' align='center' cellpadding='5' cellspacing='0' style='border-bottom:2px solid #aaa'>	
+	  <tr>
+		<td height='30' align='center' valign='middle' bgcolor='#F2F2F2'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+			  <tr>
+				<td align='center' valign='top'><a href='http://www.svrtravelsindia.com/' target='_blank'>
+				<img src='http://www.svrtravelsindia.com/images/svr-travels.jpg' alt='svrtravelsindia' border='0' /></a></td>
+			  </tr>
+			  <tr>
+				<td align='center' valign='middle' bgcolor='#D50000'><table width='100%' border='0' cellspacing='0' cellpadding='0'>
+				  <tr>
+					<td height='40' align='center' valign='middle'>
+						<span class='clr' style='color: #FFFFFF; font-weight: bold;'>Agent Registration Details from SVR Travels India</span>
+					</td>
+				  </tr>
+				</table>			  
+				</td>
+			  </tr>
+			</table>			
+		</td>
+	  </tr>
+	  <tr>
+		<td align='center' valign='top' bgcolor='#F2F2F2'><table width='100%' border='0' align='center' cellpadding='4' cellspacing='0'>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>Name</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>Mr. Gujjala balakrishna</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>Agent ID</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>SAG41417</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>Gender</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>Male</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>Authority Level</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>Travel agency</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>E-Mail ID</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>lathatravels.atp@gmail.com</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>Mobile</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>8885614385</td>
+			</tr><tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>PAN Card</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>CECPB9223G</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>Address</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>D-no :1-3-493 4th road near svnr towera</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>City</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>Anantapur</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>City</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>Andhra Pradesh</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>Country</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>India</td>
+			</tr>
+			<tr>
+			  <td width='40%' align='left' style='font-family:Verdana; font-size:13px; color:#131313; padding-left:20px;'>Pincode</td>
+			  <td width='5%' align='center'><strong>:</strong></td>
+			  <td align='left'>515001</td>
+			</tr>
+		</table></td>
+	  </tr>
+	</table>
+
+--F18C3ED9D0.1518231614/gateway34.websitewelcome.com--

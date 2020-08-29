@@ -1,0 +1,156 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com (Dovecot) with LMTP id CYMdIPH2BFujHgsAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Wed, 23 May 2018 00:06:57 -0500
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Wed, 23 May 2018 00:06:57 -0500
+Received: from mailnull by prizm.websitewelcome.com with local (Exim 4.89_1)
+	id 1fLLzF-0035iM-Dj
+	for svrtravelsindia@prizm.websitewelcome.com; Wed, 23 May 2018 00:06:57 -0500
+X-Failed-Recipients: ajitsharma929@gmail.con
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@prizm.websitewelcome.com>
+To: svrtravelsindia@prizm.websitewelcome.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1527052017-eximdsn-1994911098
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fLLzF-0035iM-Dj@prizm.websitewelcome.com>
+Date: Wed, 23 May 2018 00:06:57 -0500
+
+--1527052017-eximdsn-1994911098
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ajitsharma929@gmail.con
+    host cm.websitewelcome.com [100.42.49.18]
+    SMTP error from remote mail server after RCPT TO:<ajitsharma929@gmail.con>:
+    550 5.1.1 <ajitsharma929@gmail.con> recipient rejected
+
+--1527052017-eximdsn-1994911098
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; prizm.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;ajitsharma929@gmail.con
+Status: 5.0.0
+Remote-MTA: dns; cm.websitewelcome.com
+Diagnostic-Code: smtp; 550 5.1.1 <ajitsharma929@gmail.con> recipient rejected
+
+--1527052017-eximdsn-1994911098
+Content-type: message/rfc822
+
+Return-path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.89_1)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1fLLzE-0035hp-Th; Wed, 23 May 2018 00:06:56 -0500
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: SVR Travels India Ticket - 63R69BSB
+X-PHP-Script: www.svrtravelsindia.com/confirm-ticket.php for 115.97.161.17
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1fLLzE-0035hp-Th@prizm.websitewelcome.com>
+Date: Wed, 23 May 2018 00:06:56 -0500
+
+<style type='text/css'>
+	table, td, th { font-family: Verdana; font-size:12px; }
+	.clr { color: #FFFFFF; font-weight: bold; }</style>
+	<table width='500' border='0' align='center' cellpadding='5' cellspacing='0' style='border-bottom:2px solid #aaa'>	
+	  <tr>
+		<td height='30' align='center' valign='middle' bgcolor='#F2F2F2'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+			  <tr>
+				<td align='center' valign='top'><a href='http://www.svrtravelsindia.com/' target='_blank'>
+				<img src='http://www.svrtravelsindia.com/images/svr-travels.jpg' alt='svrtravelsindia' border='0' /></a></td>
+			  </tr>
+			  <tr>
+				<td align='center' valign='middle' bgcolor='#D50000'><table width='100%' border='0' cellspacing='0' cellpadding='0'>
+				  <tr>
+					<td height='40' align='center' valign='middle'>
+						<span class='clr' style='color: #FFFFFF; font-weight: bold;'>SVR Travels India Ticket - 63R69BSB</span>
+					</td>
+				  </tr>
+				</table>			  
+				</td>
+			  </tr>
+			</table>			
+		</td>
+	  </tr>
+	  <tr>
+		<td align='center' valign='top' bgcolor='#F2F2F2'><table width='100%' border='0' align='center' cellpadding='3' cellspacing='2' style='margin:10px;'>
+		  <tr>
+			<td colspan=3>Dear Customer,</td>
+		  </tr>
+		  <tr>
+			<td colspan=3>Congratulations! Your ticket for Hyderabad to Belagavi on May 23, 2018 at 10:34 AM has been confirmed.</td>
+		  </tr>
+		  <tr>
+			<td width='15%'><strong>Ticket No</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>63R69BSB</td>
+		  </tr><tr>
+		<td width='15%'><strong>Your Email</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>ajitsharma929@gmail.con</td>
+	  </tr>
+	  <tr>
+		<td width='15%'><strong>Contact Number</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>9989062215</td>
+	  </tr>
+	  <tr>
+		<td width='15%'><strong>Trip ID</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>1121715827000695572</td>
+	  </tr>
+	  <tr>
+		<td nowrap='nowrap'><strong>Journey</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td nowrap='nowrap' align='left'>Hyderabad --> Belagavi, May 24, 2018 05:30 PM</td>
+	  </tr>
+	  <tr>
+		<td><strong>No. of Persons</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>1</td>
+	  </tr>
+	  <tr>
+		<td><strong>Seat(s)</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>L1</td>
+	  </tr>
+	  <tr>
+		<td><strong>Total Fare</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Rs. 1,680.00</td>
+	  </tr>
+	  <tr>
+		<td><strong>Travel</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Orange Tours & Travels A/C Sleeper (2+1)</td>
+	  </tr>
+	  <tr>
+		<td nowrap=nowrap><strong>Boarding Details</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Boarding from Ameerpet  (Pickup Van/Bus) - 05:30 PM</td>
+	  </tr><tr>
+		<td colspan=3>&nbsp;</td>
+	  </tr>
+	  <tr>
+		<td colspan=3>Best Regards,<br>---<br>Your friends at SVR Travels</td>
+	  </tr>
+	  <tr>
+		<td colspan=3><div><em>E-mail us: <a href='mailto:support@svrtraveslindia.com' target='_blank'>support@svrtraveslindia.com</a></em></div>
+		  <div><em>Call us: +91 9848828289 / +91 9705008289.</em></div></td>
+	  </tr>
+	</table></td>
+	  </tr>
+	</table>
+
+--1527052017-eximdsn-1994911098--

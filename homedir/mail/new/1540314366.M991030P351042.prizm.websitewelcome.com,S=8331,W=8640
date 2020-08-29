@@ -1,0 +1,309 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com with LMTP id GOOwOv5Uz1tCWwUAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Tue, 23 Oct 2018 12:06:06 -0500
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Tue, 23 Oct 2018 12:06:06 -0500
+Received: from mailnull by prizm.websitewelcome.com with local (Exim 4.91)
+	id 1gF086-001XIg-Q4
+	for svrtravelsindia@prizm.websitewelcome.com; Tue, 23 Oct 2018 12:06:06 -0500
+X-Failed-Recipients: rahulkumar@etv.co.in,
+  kavitareddy101@gmail.com,
+  anjaneyulu.919@gmail.com,
+  m.rameshkgm@gmail.com,
+  esprindia@gmail.com,
+  bsk9440210432@gmail.com,
+  seagullsindia@gmail.com,
+  dastagirshaik2418@gmail.com,
+  mrpadhi@gmail.com,
+  ksindhu92@gmail.com,
+  naidugganesh@gmail.com,
+  drchamun@gmail.com,
+  choudary.2011@gmail.com,
+  sreedhargoud7@gmail.com,
+  haripriyaservices@gmail.com,
+  kaavya@dvlgroups.com,
+  lalitharavula123@gmail,
+  jimos4581rt@hotmail.com,
+  vgkpalukuru@hotmail.com,
+  yadul.sks@gimail.com,
+  dlnrao@hbl.in,
+  mohan.bp@seabirdtourists.com,
+  peggyh@fidmail.com,
+  info@topglanz.de,
+  tas5@york.ac.uk,
+  biankaeitner@hotmail.de,
+  marcelo.fernandez@tytesa.com.ar,
+  nazy@cox.net,
+  suzan@hvc.rr.com,
+  jmhansen1220@optimum.net,
+  ddessert@socal.rr.com,
+  jblair3@cfl.rr.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@prizm.websitewelcome.com>
+To: svrtravelsindia@prizm.websitewelcome.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1540314366-eximdsn-1575703368
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1gF086-001XIg-Q4@prizm.websitewelcome.com>
+Date: Tue, 23 Oct 2018 12:06:06 -0500
+
+--1540314366-eximdsn-1575703368
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  rahulkumar@etv.co.in
+    host 100.42.49.20 [100.42.49.20]
+  kavitareddy101@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  anjaneyulu.919@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  m.rameshkgm@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  esprindia@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  bsk9440210432@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  seagullsindia@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  dastagirshaik2418@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  mrpadhi@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  ksindhu92@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  naidugganesh@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  drchamun@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  choudary.2011@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  sreedhargoud7@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  haripriyaservices@gmail.com
+    host 100.42.49.6 [100.42.49.6]
+  kaavya@dvlgroups.com
+    host 100.42.49.6 [100.42.49.6]
+  lalitharavula123@gmail
+    host 100.42.49.6 [100.42.49.6]
+  jimos4581rt@hotmail.com
+    host 100.42.49.6 [100.42.49.6]
+  vgkpalukuru@hotmail.com
+    host 100.42.49.6 [100.42.49.6]
+  yadul.sks@gimail.com
+    host 100.42.49.7 [100.42.49.7]
+  dlnrao@hbl.in
+    host 100.42.49.6 [100.42.49.6]
+  mohan.bp@seabirdtourists.com
+    host 100.42.49.7 [100.42.49.7]
+  peggyh@fidmail.com
+    host 100.42.49.19 [100.42.49.19]
+  info@topglanz.de
+    host 100.42.49.20 [100.42.49.20]
+  tas5@york.ac.uk
+    host 100.42.49.19 [100.42.49.19]
+  biankaeitner@hotmail.de
+    host 100.42.49.20 [100.42.49.20]
+  marcelo.fernandez@tytesa.com.ar
+    host 100.42.49.19 [100.42.49.19]
+  nazy@cox.net
+    host 100.42.49.7 [100.42.49.7]
+  suzan@hvc.rr.com
+    host 100.42.49.19 [100.42.49.19]
+  jmhansen1220@optimum.net
+    host 100.42.49.6 [100.42.49.6]
+  ddessert@socal.rr.com
+    host 100.42.49.20 [100.42.49.20]
+  jblair3@cfl.rr.com
+    host 100.42.49.8 [100.42.49.8]
+
+--1540314366-eximdsn-1575703368
+Content-type: message/global-delivery-status
+
+Reporting-MTA: dns; prizm.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;jblair3@cfl.rr.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.8
+
+Action: failed
+Final-Recipient: rfc822;ddessert@socal.rr.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.20
+
+Action: failed
+Final-Recipient: rfc822;jmhansen1220@optimum.net
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;suzan@hvc.rr.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.19
+
+Action: failed
+Final-Recipient: rfc822;nazy@cox.net
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.7
+
+Action: failed
+Final-Recipient: rfc822;marcelo.fernandez@tytesa.com.ar
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.19
+
+Action: failed
+Final-Recipient: rfc822;biankaeitner@hotmail.de
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.20
+
+Action: failed
+Final-Recipient: rfc822;tas5@york.ac.uk
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.19
+
+Action: failed
+Final-Recipient: rfc822;info@topglanz.de
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.20
+
+Action: failed
+Final-Recipient: rfc822;peggyh@fidmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.19
+
+Action: failed
+Final-Recipient: rfc822;mohan.bp@seabirdtourists.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.7
+
+Action: failed
+Final-Recipient: rfc822;dlnrao@hbl.in
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;yadul.sks@gimail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.7
+
+Action: failed
+Final-Recipient: rfc822;vgkpalukuru@hotmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;jimos4581rt@hotmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;lalitharavula123@gmail
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;kaavya@dvlgroups.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;haripriyaservices@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;sreedhargoud7@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;choudary.2011@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;drchamun@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;naidugganesh@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;ksindhu92@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;mrpadhi@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;dastagirshaik2418@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;seagullsindia@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;bsk9440210432@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;esprindia@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;m.rameshkgm@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;anjaneyulu.919@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;kavitareddy101@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.6
+
+Action: failed
+Final-Recipient: rfc822;rahulkumar@etv.co.in
+Status: 5.0.0
+Remote-MTA: dns; 100.42.49.20
+
+--1540314366-eximdsn-1575703368
+Content-type: message/global-headers
+
+Return-path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.91)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1gEaB3-000QBY-Gm; Mon, 22 Oct 2018 08:23:25 -0500
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: Newsletter From SVR Travels India
+X-PHP-Script: www.svrtravelsindia.com/cpbedirection/news_letter_compose.php for 45.119.113.12
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1gEaB3-000QBY-Gm@prizm.websitewelcome.com>
+Date: Mon, 22 Oct 2018 08:23:25 -0500
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1540314366-eximdsn-1575703368--

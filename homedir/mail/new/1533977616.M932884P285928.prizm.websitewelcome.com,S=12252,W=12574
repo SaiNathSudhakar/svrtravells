@@ -1,0 +1,322 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com with LMTP id 4EnqNhCkblvoXAQAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Sat, 11 Aug 2018 03:53:36 -0500
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Sat, 11 Aug 2018 03:53:36 -0500
+Received: from gateway33.websitewelcome.com ([192.185.145.239]:18983)
+	by prizm.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	id 1foPeS-001Cgr-So
+	for svrtravelsindia@prizm.websitewelcome.com; Sat, 11 Aug 2018 03:53:36 -0500
+Received: by gateway33.websitewelcome.com (Postfix)
+	id C0F212914; Sat, 11 Aug 2018 03:53:36 -0500 (CDT)
+Date: Sat, 11 Aug 2018 03:53:36 -0500 (CDT)
+From: MAILER-DAEMON@gateway33.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: svrtravelsindia@prizm.websitewelcome.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="97BB2290B.1533977616/gateway33.websitewelcome.com"
+Message-Id: <20180811085336.C0F212914@gateway33.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--97BB2290B.1533977616/gateway33.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway33.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<info@svrtravelsindia.com>: host aspmx.l.google.com[108.177.8.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser r11-v6si7644758oih.358 -
+    gsmtp (in reply to RCPT TO command)
+
+--97BB2290B.1533977616/gateway33.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway33.websitewelcome.com
+X-Postfix-Queue-ID: 97BB2290B
+X-Postfix-Sender: rfc822; svrtravelsindia@prizm.websitewelcome.com
+Arrival-Date: Sat, 11 Aug 2018 03:53:36 -0500 (CDT)
+
+Final-Recipient: rfc822; info@svrtravelsindia.com
+Original-Recipient: rfc822;info@svrtravelsindia.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser r11-v6si7644758oih.358 -
+    gsmtp
+
+--97BB2290B.1533977616/gateway33.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from cm12.websitewelcome.com (cm12.websitewelcome.com [100.42.49.8])
+	by gateway33.websitewelcome.com (Postfix) with ESMTP id 97BB2290B
+	for <info@svrtravelsindia.com>; Sat, 11 Aug 2018 03:53:36 -0500 (CDT)
+Received: from prizm.websitewelcome.com ([192.185.12.45])
+	by cmsmtp with SMTP
+	id oPeSfpEbLSjJAoPeSfXgG3; Sat, 11 Aug 2018 03:53:36 -0500
+X-Authority-Reason: nr=8
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.91)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1foPeS-001CgI-1R; Sat, 11 Aug 2018 03:53:36 -0500
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: Newsletter From SVR Travels India
+X-PHP-Script: www.svrtravelsindia.com/cpbedirection/news_letter_compose.php for 45.119.113.180
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1foPeS-001CgI-1R@prizm.websitewelcome.com>
+Date: Sat, 11 Aug 2018 03:53:36 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - prizm.websitewelcome.com
+X-AntiAbuse: Original Domain - svrtravelsindia.com
+X-AntiAbuse: Originator/Caller UID/GID - [12673 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - prizm.websitewelcome.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1foPeS-001CgI-1R
+X-Source: 
+X-Source-Args: /usr/bin/php /home/svrtravelsindia/public_html/cpbedirection/news_letter_compose.php 
+X-Source-Dir: svrtravelsindia.com:/public_html/cpbedirection
+X-Source-Sender: 
+X-Source-Auth: svrtravelsindia
+X-Email-Count: 5
+X-Org: HG=hgreseller;ORG=hostgator;
+X-Source-Cap: c3ZydHJhdmVsc2luZGlhO2JpdHJhd2ViO3ByaXptLndlYnNpdGV3ZWxjb21lLmNvbQ==
+X-Local-Domain: yes
+
+<style type='text/css'>
+	table, td, th { font-family: Verdana; font-size:12px; }
+	.clr { color: #FFFFFF; font-weight: bold; }</style>
+	<table width='500' border='0' align='center' cellpadding='5' cellspacing='0' style='border-bottom:2px solid #aaa'>	
+	  <tr>
+		<td height='30' align='center' valign='middle' bgcolor='#F2F2F2'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+			  <tr>
+				<td align='center' valign='top'><a href='http://www.svrtravelsindia.com/' target='_blank'>
+				<img src='http://www.svrtravelsindia.com/images/svr-travels.jpg' alt='svrtravelsindia' border='0' /></a></td>
+			  </tr>
+			  <tr>
+				<td align='center' valign='middle' bgcolor='#D50000'><table width='100%' border='0' cellspacing='0' cellpadding='0'>
+				  <tr>
+					<td height='40' align='center' valign='middle'>
+						<span class='clr' style='color: #FFFFFF; font-weight: bold;'>Newsletter From SVR Travels India</span>
+					</td>
+				  </tr>
+				</table>			  
+				</td>
+			  </tr>
+			</table>			
+		</td>
+	  </tr>
+	  <tr>
+		<td align='center' valign='top' bgcolor='#F2F2F2'><table width='90%' border='0' align='center' cellpadding='6' cellspacing='2' style='margin:10px;'>
+	  <tr><td colspan='3' align='justify'><div>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p style="margin-left:137.25pt;">
+		SVRTRAVELSINDIA(P)LTD.</p>
+	<h1>
+		TYE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACompleteTravelSolution...</h1>
+	<p style="margin-left:151.65pt;">
+		<img height="266" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif" width="820" />FIXEDDEPARTURES2018-19</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p align="center">
+		5Nights/6Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rs.39000/-P.P</p>
+	<h2 align="center">
+		Dep:12 Oct,1Nov,7Jan,23Jan</h2>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p style="margin-left:254.4pt;">
+		5Nights/6Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rs.35000/-P.P</p>
+	<h3>
+		<img height="399" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif" width="816" />Dep:12Oct,1Nov,22Dec,7Jan,23Jan</h3>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p align="center">
+		7Nights<em>I</em>8Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rs.25000/-P.P</p>
+	<h2 align="center">
+		Dep:11Oct,1Nov</h2>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p style="margin-left:254.85pt;">
+		11Nights/ 12 Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rs.29000/-P.P</p>
+	<h2>
+		Dep:20Sep,5Oct,22Oct</h2>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p align="center">
+		9Nights/10Days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rs.29000/-P.P</p>
+	<p style="margin-left:-22.1pt;">
+		--</p>
+	<h3 align="center">
+		Dep:11Oct,2Nov,21Nov,6Jan,22Jan</h3>
+	<p>
+		&nbsp;</p>
+	<p style="margin-left:57.8pt;">
+		<img height="2" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif" width="658" /></p>
+</div>
+<p>
+	&nbsp;</p>
+<div>
+	<p>
+		&nbsp;</p>
+	<p style="margin-left:61.9pt;">
+		<img height="4" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif" width="68" /></p>
+	<table cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td height="89">
+					<table cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr>
+								<td>
+									<div>
+										<table border="0" cellpadding="0" cellspacing="0">
+											<tbody>
+												<tr>
+													<td colspan="2" style="width:20px;height:19px;">
+														<p>
+															&nbsp;</p>
+													</td>
+													<td style="width:49px;height:19px;">
+														<p style="margin-left:.95pt;">
+															COST</p>
+													</td>
+													<td style="width:18px;height:19px;">
+														<p>
+															&nbsp;</p>
+													</td>
+												</tr>
+												<tr>
+													<td colspan="4" style="width:87px;height:30px;">
+														<p style="margin-left:1.7pt;">
+															INCLUDE</p>
+													</td>
+												</tr>
+												<tr>
+													<td style="width:5px;height:5px;">
+														<p>
+															&nbsp;</p>
+													</td>
+													<td colspan="3" style="width:83px;height:5px;">
+														<p>
+															&nbsp;</p>
+													</td>
+												</tr>
+												<tr height="0">
+													<td>
+														&nbsp;</td>
+													<td>
+														&nbsp;</td>
+													<td>
+														&nbsp;</td>
+													<td>
+														&nbsp;</td>
+												</tr>
+											</tbody>
+										</table>
+										<p>
+											&nbsp;</p>
+									</div>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	SEXCLUDE<br clear="all" />
+	<p style="margin-left:14.25pt;">
+		<em>c:j/&#39; </em>HotelAccommodationat3*Star&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>&lt;F</em>RoundTripAirFairFromHyd.</p>
+	<p style="margin-left:13.75pt;">
+		<img height="76" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif" width="88" /><em>&lt;F</em>DailyB/F,Lunch,Dinner<em>c:i,F</em>AllTransportationbyAleCoach(AleDoes&#39;tOperateOnHills)</p>
+	<p style="margin-left:13.75pt;">
+		<em>c:j/&#39;</em>Expenses,PersonalNature<em>&lt;F</em>5&deg;/oGST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>(jJ=&#39;</em>EntryTickets</p>
+	<p style="margin-left:203.35pt;">
+		&nbsp;</p>
+	<table cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td height="100">
+					<table cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr>
+								<td>
+									<div>
+										<p>
+											I</p>
+									</div>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<img height="4" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif" width="68" /><img height="94" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image009.gif" width="230" /><img height="76" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif" width="235" /><img height="76" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image011.gif" width="209" />..&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .-.&nbsp;&nbsp;&nbsp; &bull;</div>
+<p>
+	&nbsp;</p>
+<p align="center">
+	<img height="2" src="file:///C:/Users/SVR2~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif" width="2" />Opp.JNTUUniversity,Beside</p>
+<p align="center" style="margin-left:239.5pt;">
+	RythuBazar,ManjeeraMajistic,CommercialComplex,ShopNo.113,Hyd.Tel.:040-48555089,8074099691,9705008289</p>
+<p align="center">
+	Email<a href="mailto:kphb@svrtravels.com">:kphb@svrtravels.com</a></p>
+<p>
+	&nbsp;</p>
+<p align="center" style="margin-left:11.15pt;">
+	Shop-8,GroundFloor,</p>
+<p align="center" style="margin-left:16.65pt;">
+	Opp.:OldBusDepotRoad,RamNagar,Hanmakonda,Tel.:9848828289,9581428289</p>
+<p align="center" style="margin-left:11.3pt;">
+	Email&nbsp; <a href="mailto:wl@svrtravlesindia.com">:wl@svrtravlesindia.com</a></p>
+</td></tr></table></td>
+	  </tr>
+	</table>
+
+--97BB2290B.1533977616/gateway33.websitewelcome.com--

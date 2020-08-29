@@ -1,0 +1,272 @@
+Return-Path: <bounces+svrtravelsindia=prizm.websitewelcome.com@dynect-mailer.net>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com (Dovecot) with LMTP id GcBsLnpExlkVMwQAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Sat, 23 Sep 2017 06:24:42 -0500
+Return-path: <bounces+svrtravelsindia=prizm.websitewelcome.com@dynect-mailer.net>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Sat, 23 Sep 2017 06:24:42 -0500
+Received: from mtaout-205-ewr.sendlabs.com ([216.146.33.205]:11773)
+	by prizm.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <bounces+svrtravelsindia=prizm.websitewelcome.com@dynect-mailer.net>)
+	id 1dviY6-001APX-Mw
+	for svrtravelsindia@prizm.websitewelcome.com; Sat, 23 Sep 2017 06:24:42 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dyn; d=boxbe.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Sender:
+ List-Unsubscribe; i=boxbe-notifications@boxbe.com;
+ bh=2o7YK+ZOsBFUQGlLQdv02Wuzku9tVZIyGnUSM8w6x04=;
+ b=jnysGIu5njGZ09cHWuV2Mly+Br6rQwgl8Jnt1SmnXHklp2jbtOoICS87V70yV7kKMp2OXzjj0Df+
+   BFjKDK0rqgV2PfIN07STRH5FdogoA17NpnD1yk3j5pWJNEm0mY0xWiZg+WdxZvJIE5NJbLztW5JI
+   /te4Y/Wo9ZfIASvlHdo=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=boxbe.com; s=s1;
+	t=1506165871; bh=uj4yCoSKJss1yAs3cbKQIrAuPUMJwFNRPeTCU3anJGE=;
+	h=Date:From:Reply-To:To:Subject;
+	b=OLZskPMLoWwxSpaPGan61N8LRhFIn+orLRb+lexcVHJdMXotu77/dkSRUBeRfL+Al
+	 laZfDunkd0+Zyqp5K14TlzpM7KG5SpRMlT3M7gTRFtnij5gw7ewM8IAMeuwpeiwafa
+	 xwm51B+WRzLBiEqew68ywmJ/ZoS4ZhFC96xPEbwQ=
+Date: Sat, 23 Sep 2017 04:24:36 -0700 (PDT)
+From: boxbe-notifications@boxbe.com
+Reply-To: infiniti.glass@gmail.com
+To: SVR Travels India <svrtravelsindia@prizm.websitewelcome.com>
+Message-ID: <1561145479.41386.1506165876345.JavaMail.prod@super-ems05.ny3>
+Subject: Re: Flight Enquiry Details From SVR Travels India (Action
+ Requested)
+MIME-Version: 1.0
+Content-Type: multipart/report; 
+	boundary="----=_Part_41385_2066105434.1506165876342"; 
+	report-type=delivery-status
+Envelope-From: <>
+Auto-Submitted: auto-replied
+Sender: boxbe-notifications@boxbe.com
+X-DynectEmail-Msg-Hash: BP92Z7iUtKFwd7mbExW9WUVzFVMiochREqIHqxOnnGE7FyXKclOWxOK0UtxvsvBxiF23PUTW7EwyfOrtGGEsvLQMymfnrbKuyrYB726RRro4D+ltbV/I4A/uHGGBPBs6DjSD6qaqpJ+EMsxVRSP+uA==
+X-DynEmail-Meta: WsrG0t7P1kunJcSul3RjcZShKihyLmixvxIdalSJQLC8PaNYdCuaX66+T7/
+ LatHItFi9eXpRjM6OLqjed095ZB3LEV2WlPtgryyQo/qWyU0D68kwBuWS5tooKedfnspxc8egR3
+ vCHoIGLCq1yLUlyE/yTH49YFlC2MyQ9icv7TlApH0I5WTP86ze5/oAq5yj0e5a5Rc/KZAqKOB1j
+ WMDR/iXtGJzAnni32Gk7FP1T/4AZQJcPyTB5P2BaklC+KEn
+X-DynectEmail-Msg-Key: 20170923112432.0000094262cf@mail6-37-usnbn1
+X-DynectEmail-X-Headers: 
+X-Feedback-ID: R29sZFRyYW4xM1ZNVEFz:477795:315291:dyn06
+List-Unsubscribe: <http://unsub.email.dynect.net/unsub?h=BP92Z7iUtKFwd7mbExW9WUVzFVMiochREqIHqxOnnGE7FyXKclOWxOK0UtxvsvBxiF23PUTW7EwyfOrtGGEsvLQMymfnrbKuyrYB726RRro4D%2BltbV%2FI4A%2FuHGGBPBs6DjSD6qaqpJ%2BEMsxVRSP%2BuA%3D%3D&i=20170923112432.0000094262cf%40mail6-37-usnbn1>, <mailto:unsubscribe@dynect-email.com?subject=BP92Z7iUtKFwd7mbExW9WUVzFVMiochREqIHqxOnnGE7FyXKclOWxOK0UtxvsvBxiF23PUTW7EwyfOrtGGEsvLQMymfnrbKuyrYB726RRro4D%2BltbV%2FI4A%2FuHGGBPBs6DjSD6qaqpJ%2BEMsxVRSP%2BuA%3D%3D&message_id=20170923112432.0000094262cf%40mail6-37-usnbn1>
+
+------=_Part_41385_2066105434.1506165876342
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_41384_820917812.1506165876342"
+Content-Disposition: inline
+Content-Description: Notification
+
+The contents of this message require a modern email client
+for correct display.  If you are reading this message, it may
+be because your reader is without MIME support.
+------=_Part_41384_820917812.1506165876342
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+
+Hello SVR Travels India,
+
+Your message "Flight Enquiry Details From SVR Travels India" to me was waitlisted.
+
+Get your message to my inbox by clicking the following link.
+
+
+https://www.boxbe.com/crs?tc_serial=32990515190&tc_rand=1834036801&utm_source=stf&utm_medium=email&utm_campaign=CN_STDW&utm_content=003
+
+
+  Thank you,
+  infiniti.glass@gmail.com
+
+P.S. ...you'll only have to do this once. Future emails will appear immediately in my inbox.
+
+Supercharge your Email
+Visit http://www.boxbe.com/how-it-works?tc_serial=32990515190&tc_rand=1834036801&utm_source=stf&utm_medium=email&utm_campaign=CN_STDW&utm_content=003
+
+
+Boxbe, Inc. | 65 Broadway, Suite 601 | New York, NY 10006
+Privacy Policy: http://www.boxbe.com/privacy | Unsubscribe: http://www.boxbe.com/unsubscribe
+------=_Part_41384_820917812.1506165876342
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<html><head></head><body>
+<div style=3D"width:500px;font-size:13px;font-family:'Lucida Grande', Helve=
+tica, Arial, sans-serif;">
+
+  <p style=3D"margin-bottom:7px;">
+    Hello SVR Travels India,
+  </p>
+
+    <p style=3D"margin-bottom:7px;">Your message "Flight Enquiry Details Fr=
+om SVR Travels India" to me was waitlisted.</p>
+
+    <p style=3D"margin-bottom:7px;">
+        Get your message to my inbox by clicking the following link.
+    </p>
+
+    <p style=3D"margin-bottom:7px;font-size:14px;font-weight:bold;">
+      </p><center>
+        <a href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtr=
+ue&amp;H=3DBP92Z7iUtKFwd7mbExW9WUVzFVMiochREqIHqxOnnGE7FyXKclOWxOK0UtxvsvBx=
+iF23PUTW7EwyfOrtGGEsvLQMymfnrbKuyrYB726RRro4D%2BltbV%2FI4A%2FuHGGBPBs6DjSD6=
+qaqpJ%2BEMsxVRSP%2BuA%3D%3D&amp;G=3D819&amp;R=3Dhttps%3A%2F%2Fwww.boxbe.com=
+%2Fcrs%3Ftc_serial%3D32990515190%26tc_rand%3D1834036801%26utm_source%3Dstf%=
+26utm_medium%3Demail%26utm_campaign%3DCN_STDW%26utm_content%3D003&amp;I=3D2=
+0170923112432.0000094262cf%40mail6-37-usnbn1&amp;X=3D&amp;S=3DERb3o_NqTdVjM=
+h74ZrGtvHgW4RcnuvUCNaOKJeKPE-A" style=3D"text-decoration:none;">
+          CLICK HERE
+        </a>
+      </center>
+    <p></p>
+
+    =20
+
+
+ <p style=3D"margin-bottom:7px;">Thank you,<br>
+   infiniti.glass@gmail.com
+ </p>
+=20
+  <p style=3D"margin-bottom:7px;">P.S. ...you'll only have to do this once.=
+ Future emails will appear immediately in my inbox.<br> <br> <br>
+ </p>
+
+
+<p style=3D"margin-bottom:10px;">
+  <a style=3D"margin-bottom:8px;" href=3D"http://link.email.dynect.net/link=
+.php?DynEngagement=3Dtrue&amp;H=3DBP92Z7iUtKFwd7mbExW9WUVzFVMiochREqIHqxOnn=
+GE7FyXKclOWxOK0UtxvsvBxiF23PUTW7EwyfOrtGGEsvLQMymfnrbKuyrYB726RRro4D%2BltbV=
+%2FI4A%2FuHGGBPBs6DjSD6qaqpJ%2BEMsxVRSP%2BuA%3D%3D&amp;G=3D819&amp;R=3Dhttp=
+%3A%2F%2Fwww.boxbe.com%2Fhow-it-works%3Ftc_serial%3D32990515190%26tc_rand%3=
+D1834036801%26utm_source%3Dstf%26utm_medium%3Demail%26utm_campaign%3DCN_STD=
+W%26utm_content%3D003&amp;I=3D20170923112432.0000094262cf%40mail6-37-usnbn1=
+&amp;X=3D&amp;S=3DJCKY-uAhfi0h4L-T63Uo9fsclvg77ApRi9Ls5lCcGg0"><img style=
+=3D"border:none;" src=3D"http://www.boxbe.com/images/boxbe.gif?tc_serial=3D=
+32990515190&amp;tc_rand=3D1834036801&amp;utm_source=3Dstf&amp;utm_medium=3D=
+email&amp;utm_campaign=3DCN_STDW&amp;utm_content=3D003" alt=3D"Boxbe"></a><=
+br>
+  Supercharge your Email
+</p>
+
+<span style=3D"color: #666; font-weight: bold;">Boxbe, Inc.</span> | 65 Bro=
+adway, Suite 601 | New York, NY 10006
+<br>
+<a href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=
+=3DBP92Z7iUtKFwd7mbExW9WUVzFVMiochREqIHqxOnnGE7FyXKclOWxOK0UtxvsvBxiF23PUTW=
+7EwyfOrtGGEsvLQMymfnrbKuyrYB726RRro4D%2BltbV%2FI4A%2FuHGGBPBs6DjSD6qaqpJ%2B=
+EMsxVRSP%2BuA%3D%3D&amp;G=3D819&amp;R=3Dhttp%3A%2F%2Fwww.boxbe.com%2Fprivac=
+y%3Ftc_serial%3D32990515190%26tc_rand%3D1834036801%26utm_source%3Dstf%26utm=
+_medium%3Demail%26utm_campaign%3DCN_STDW%26utm_content%3D003&amp;I=3D201709=
+23112432.0000094262cf%40mail6-37-usnbn1&amp;X=3D&amp;S=3D0EW259jUYwDB5tAE_8=
+dfsObqusC96UE17Qa_gN9TNkQ">Privacy Policy</a> | <a href=3D"http://link.emai=
+l.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3DBP92Z7iUtKFwd7mbExW9WUVz=
+FVMiochREqIHqxOnnGE7FyXKclOWxOK0UtxvsvBxiF23PUTW7EwyfOrtGGEsvLQMymfnrbKuyrY=
+B726RRro4D%2BltbV%2FI4A%2FuHGGBPBs6DjSD6qaqpJ%2BEMsxVRSP%2BuA%3D%3D&amp;G=
+=3D819&amp;R=3Dhttp%3A%2F%2Fwww.boxbe.com%2Funsubscribe%3Ftc_serial%3D32990=
+515190%26tc_rand%3D1834036801%26utm_source%3Dstf%26utm_medium%3Demail%26utm=
+_campaign%3DCN_STDW%26utm_content%3D003&amp;I=3D20170923112432.0000094262cf=
+%40mail6-37-usnbn1&amp;X=3D&amp;S=3D8bkEmoRGGQRPHeYK22DNoxEmRTpmKtAUpNfslDN=
+7A38">Unsubscribe</a><img src=3D"http://www.boxbe.com/stfopen?tc_serial=3D3=
+2990515190&amp;tc_rand=3D1834036801&amp;utm_source=3Dstf&amp;utm_medium=3De=
+mail&amp;utm_campaign=3DCN_STDW&amp;utm_content=3D003">=20
+
+</div>
+
+<img src=3D"http://trk.email.dynect.net/trk.php?a=3D/o2/819/BP92Z7iUtKFwd7m=
+bExW9WUVzFVMiochREqIHqxOnnGE7FyXKclOWxOK0UtxvsvBxiF23PUTW7EwyfOrtGGEsvLQMym=
+fnrbKuyrYB726RRro4D%2BltbV%2FI4A%2FuHGGBPBs6DjSD6qaqpJ%2BEMsxVRSP%2BuA%3D%3=
+D/i.gif&amp;i=3D20170923112432.0000094262cf%40mail6-37-usnbn1&amp;x=3D" alt=
+=3D"" width=3D"2" height=3D"2"></body></html>
+------=_Part_41384_820917812.1506165876342--
+
+------=_Part_41385_2066105434.1506165876342
+Content-Type: message/delivery-status
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery report
+
+Reporting-MTA: dns; boxbe.com
+Remote-MTA: dns; yahoo.com
+Action: delayed
+Arrival-Date: Sat, 23 Sep 2017 04:14:08 -0700 (PDT)
+
+Final-Recipient: rfc822; infiniti.glass@gmail.com
+Diagnostic-Code: X-Boxbe-Notice; message given low priority. To fix, see accompanying notice.
+Status: 4.7.0
+
+
+------=_Part_41385_2066105434.1506165876342
+Content-Type: message/rfc822
+Content-Description: Undelivered Message
+
+Delivered-To: infiniti.glass@gmail.com
+Received: by 10.157.15.218 with SMTP id m26csp521134otd; Sat, 23 Sep 2017
+ 04:14:08 -0700 (PDT)
+X-Google-Smtp-Source: AOwi7QCpX37LDMrCOhpuAOvLJdH2DYdPEMFa8lXG6Yzk/BvNjeM4u7cYFlCfPn9QkNlT9i7Q4Z36
+X-Received: by 10.202.190.7 with SMTP id o7mr2395098oif.260.1506165248841;
+ Sat, 23 Sep 2017 04:14:08 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1506165248; cv=none; d=google.com;
+ s=arc-20160816;
+ b=dZHzRvNQ7Rb0DpsCX59Q+OpsIoBX5BZXcdaGi2rYtrMQgemIs5du15dBR8H+5GUwHg
+ JhWra1otTOb0u4Rdmb1zKBB3rwuQ64uLNW7W38a8cPho75LRvzB0k06V7zUVSQMvQIr3
+ u7Z/qNUxhsd8Q7qnfuSntic2dthS09J5mdnoYofAis5TeJKzLYoEqgp6a0i6KndQ/Cw+
+ /6bBmRvd0h+7aTxuHiDQTM/E9k1R65RK6Q3WFJirKtbSD8Csr9gtLpuHGTVQY6ievs2n
+ zqD073/BbFNy9Gd1tHwSwIOWFl3Snlymwvk2EhZnUXYc7sav28olLDEqbj3zoHzySU8z UmUQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20160816; h=date:message-id:from:mime-version:subject:to
+ :arc-authentication-results; bh=UW5FHTPWJYOz8d/pHc3IP8q+gdX4nssnejF0hXSak+o=;
+ b=utF/Cdgr4E3+pKwP8lTK3JQvBUFAaSuli1+LW7jHPQ/wFDjZ9WipOkkfbbDsPXMYOt
+ Pl7wNgsxR/wVlKQMtM4aSOeXp1///CEZBQJmB350+cZmShEK2Qe/nhVp3XAmi3fD4vo/
+ 0PTN47xXWIkhzPVVW9a0n1BzSEBQdkkvKJbqd0dwO0rdAmSuTksAVzCM6Y797Wf1I4/L
+ 9AolH/oik1sDakR0ptuCT6Wlpr6JQZnzKowl3NG3fzgm3SF9xqo+DVIdlOnYvmffEmF8
+ FT/VPzib7mcyCDmhur0M8DhZfzLxXI8raDmWL9gcZWhYz57DL4H6zKx/j40s9OYw6CBm plwA==
+ARC-Authentication-Results: i=1; mx.google.com; spf=pass (google.com: domain
+ of svrtravelsindia@prizm.websitewelcome.com designates 192.185.145.102 as
+ permitted sender) smtp.mailfrom=svrtravelsindia@prizm.websitewelcome.com
+Return-Path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from gateway32.websitewelcome.com (gateway32.websitewelcome.com.
+ [192.185.145.102]) by mx.google.com with ESMTPS id
+ b200si1040049oih.161.2017.09.23.04.14.08 for <infiniti.glass@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 23 Sep
+ 2017 04:14:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of
+ svrtravelsindia@prizm.websitewelcome.com designates 192.185.145.102 as
+ permitted sender) client-ip=192.185.145.102;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of
+ svrtravelsindia@prizm.websitewelcome.com designates 192.185.145.102 as
+ permitted sender) smtp.mailfrom=svrtravelsindia@prizm.websitewelcome.com
+Received: from cm12.websitewelcome.com (cm12.websitewelcome.com [100.42.49.8])
+ by gateway32.websitewelcome.com (Postfix) with ESMTP id 7E35E5F2D4C for
+ <infiniti.glass@gmail.com>; Sat, 23 Sep 2017 06:14:08 -0500 (CDT)
+Received: from prizm.websitewelcome.com ([192.185.12.45]) by cmsmtp with SMTP
+ id viMkdCwxjDL8rviMkd9Li8; Sat, 23 Sep 2017 06:12:58 -0500
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim
+ 4.87) (envelope-from <svrtravelsindia@prizm.websitewelcome.com>) id
+ 1dviNs-0017X7-7T; Sat, 23 Sep 2017 06:14:08 -0500
+To: info@svrtravelsindia.com
+Subject: Flight Enquiry Details From SVR Travels India
+X-PHP-Script: www.svrtravelsindia.com/flight.php for 183.83.209.30
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com>
+Message-Id: <E1dviNs-0017X7-7T@prizm.websitewelcome.com>
+Date: Sat, 23 Sep 2017 06:14:08 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any
+ abuse report
+X-AntiAbuse: Primary Hostname - prizm.websitewelcome.com
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [12673 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - prizm.websitewelcome.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Exim-ID: 1dviNs-0017X7-7T
+X-Source: 
+X-Source-Args: /usr/bin/php /home/svrtravelsindia/public_html/flight.php
+X-Source-Dir: svrtravelsindia.com:/public_html
+X-Source-Sender: 
+X-Source-Auth: svrtravelsindia
+X-Email-Count: 2
+X-Source-Cap: c3ZydHJhdmVsc2luZGlhO2JpdHJhd2ViO3ByaXptLndlYnNpdGV3ZWxjb21lLmNvbQ==
+X-Local-Domain: yes
+
+
+------=_Part_41385_2066105434.1506165876342--

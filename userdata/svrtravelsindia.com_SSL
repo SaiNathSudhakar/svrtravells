@@ -1,0 +1,80 @@
+--- 
+directoryhomesvrtravelsindiapublichtmlcgibin: 
+  ssloptions: +StdEnvVars
+documentroot: /home/svrtravelsindia/public_html
+group: svrtravelsindia
+hascgi: 1
+homedir: /home/svrtravelsindia
+ifmoduleheadersmodule: 
+  requestheader: 
+    - 
+      requestheader: set X-HTTPS 1
+ifmodulemodsuphpc: 
+  group: svrtravelsindia
+ip: 192.185.116.151
+ipv6: ~
+owner: bitraweb
+phpopenbasedirprotect: 1
+port: 443
+proxypass: 
+  - 
+    proxypass: "\"/___proxy_subdomain_cpanel\" \"http://127.0.0.1:2082\" max=1 retry=0"
+  - 
+    proxypass: "\"/___proxy_subdomain_webdisk\" \"http://127.0.0.1:2077\" max=1 retry=0"
+  - 
+    proxypass: "\"/___proxy_subdomain_webmail\" \"http://127.0.0.1:2095\" max=1 retry=0"
+rewritecond: 
+  - 
+    rewritecond: "%{HTTP_HOST} =autodiscover.svrtravelsindia.com [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =autodiscover.svrtravelsindia.com:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =cpanel.svrtravelsindia.com [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =cpanel.svrtravelsindia.com:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =webdisk.svrtravelsindia.com [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =webdisk.svrtravelsindia.com:443"
+  - 
+    rewritecond: "%{HTTP_HOST} =webmail.svrtravelsindia.com [OR]"
+  - 
+    rewritecond: "%{HTTP_HOST} =webmail.svrtravelsindia.com:443"
+rewriteengine: 'On'
+rewriterule: 
+  - 
+    pattern: "^"
+    qualifier: "[P]"
+    substitution: http://127.0.0.1/cgi-sys/autodiscover.cgi
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_cpanel/$1
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_webdisk/$1
+  - 
+    pattern: "^/(.*)"
+    qualifier: "[PT]"
+    substitution: /___proxy_subdomain_webmail/$1
+scriptalias: 
+  - 
+    path: /home/svrtravelsindia/public_html/cgi-bin/
+    url: /cgi-bin/
+secruleengineoff: ~
+serveradmin: webmaster@svrtravelsindia.com
+serveralias: www.svrtravelsindia.com mail.svrtravelsindia.com
+servername: svrtravelsindia.com
+setenvif: 
+  - 
+    attribute: User-Agent
+    env_variables: nokeepalive ssl-unclean-shutdown
+    regex: "\".*MSIE.*\""
+ssl: 1
+sslcacertificatefile: /var/cpanel/ssl/apache_tls/svrtravelsindia.com/combined
+sslcertificatefile: /var/cpanel/ssl/apache_tls/svrtravelsindia.com/combined
+sslengine: 'on'
+usecanonicalname: 'Off'
+user: svrtravelsindia
+userdirprotect: ''

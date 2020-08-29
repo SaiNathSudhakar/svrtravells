@@ -1,0 +1,25 @@
+#facebox{position:absolute;top:50px;left:0;z-index:100;text-align:left;border:6px solid #7173a7;}
+#dealit{display:none;}
+#dealit1{display:none;}
+#dealit2{display:none;}
+#facebox .popup{position:relative;}
+#facebox .content{display:table;background:#FFFFFF;padding:0;width:800px;}
+#facebox #sign_up_form{margin:0px 0 0 0;padding:0 0px 0 0;}
+#facebox .signup_head{background:#e40011;height:45px;line-height:45px;padding:0 15px 0 15px;color:#fff;font-size:18px;font-weight:600;}
+#facebox h1{color:#fff;font-size:22px;font-family:'Roboto Condensed', sans-serif;padding:0 0 10px 0;font-weight:400}
+#facebox h3 span{color:#505050;font-size:12px;font-family:'Roboto Condensed', sans-serif;padding:0 0 10px 0}
+#facebox h4{color:#e30000;font-size:14px;font-family:'Roboto Condensed', sans-serif;padding:15px 0 10px 0;margin:0;}
+.facebox ul{margin-bottom:10px;padding:0}
+.facebox .title{font-size:18px;color:#e40011;font-weight:400;padding:0;margin:0;}
+.facebox ul li{margin:10px 0;background:url(../images/icn_arrow_red.gif) no-repeat 0 7px;padding-left:15px;}
+.facebox ul li a{margin:10px 0;color:#000;font-size:14px;}
+.facebox ul li a:hover{margin:10px 0;color:#e40011}
+#facebox .content > p:first-child{margin-top:0;}
+#facebox .content > p:last-child{margin-bottom:0;}
+#facebox .close{position:absolute;top:12px;right:12px;}
+#facebox .loading{text-align:left;}
+#facebox .image{text-align:left;}
+#facebox img{border:0;margin:0;}
+#facebox_overlay{position:fixed;top:0px;left:0px;height:100%;width:100%;}
+.facebox_hide{z-index:-100;}
+.facebox_overlayBG{background-color:#000;z-index:99;}

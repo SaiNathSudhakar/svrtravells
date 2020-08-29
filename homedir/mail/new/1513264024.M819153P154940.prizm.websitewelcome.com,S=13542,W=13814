@@ -1,0 +1,272 @@
+Return-Path: <bounces+svrtravelsindia=prizm.websitewelcome.com@dynect-mailer.net>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com (Dovecot) with LMTP id FXq5DJiTMlo8XQIAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Thu, 14 Dec 2017 09:07:04 -0600
+Return-path: <bounces+svrtravelsindia=prizm.websitewelcome.com@dynect-mailer.net>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Thu, 14 Dec 2017 09:07:04 -0600
+Received: from mtaout-206-ewr.sendlabs.com ([216.146.33.206]:14792)
+	by prizm.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <bounces+svrtravelsindia=prizm.websitewelcome.com@dynect-mailer.net>)
+	id 1ePV6G-000hgO-Lv
+	for svrtravelsindia@prizm.websitewelcome.com; Thu, 14 Dec 2017 09:07:04 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dyn; d=boxbe.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Sender:
+ List-Unsubscribe; i=boxbe-notifications@boxbe.com;
+ bh=Bps46zjJnaTCL6lOGgBRfsAn3kxu/XerhwmlbJeZ4Co=;
+ b=qEWgRkvZHI3GhafAKoPkz2IwKY4oPJ+3hrS9uohCULN2YvXqrj7SUixJnJMRBlXokjCS4wbjpZ5U
+   XH0hKvg5OlpIkaYGLPA3FB7iJAgaRnGU+yAd784y2AKAFAheX7QyqeBnbqHWiv6vFqRyUAg6XeKS
+   zMZiDoJDzou0HGeyPj0=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=boxbe.com; s=s1;
+	t=1513264013; bh=4TupS2eybh5AgZPG/QNOXxUfWJ8kw6kczW13cXdk9vE=;
+	h=Date:From:Reply-To:To:Subject;
+	b=pzUHimiR6TEcEs0wq6yzaGMG32Fo5kd3juOUal3lNM1CX+QHl4tvtJGunmwfPsdBR
+	 abZ196gtPl0AzB/fRX+7hmlX5GPvmOBLFwrJkcx4OVVlqIu1bgvnXORqUQj5iGEZ1h
+	 7h4OaJmXOa11jfhFUE7enpCksOfkDKGs4gNx4oB0=
+Date: Thu, 14 Dec 2017 07:08:53 -0800 (PST)
+From: boxbe-notifications@boxbe.com
+Reply-To: nirmalamondal@gmail.com
+To: SVR Travels India <svrtravelsindia@prizm.websitewelcome.com>
+Message-ID: <1537652927.86946.1513264133437.JavaMail.prod@super-ems04.ny3>
+Subject: Re: Enquiry Details From SVR Travels India (Action Requested)
+MIME-Version: 1.0
+Content-Type: multipart/report; 
+	boundary="----=_Part_86943_10326248.1513264132896"; 
+	report-type=delivery-status
+Envelope-From: <>
+Auto-Submitted: auto-replied
+Sender: boxbe-notifications@boxbe.com
+X-DynectEmail-Msg-Hash: uq+BfAj52xW14oWUAmFFMOfDktVFyZWt68NHCoOqFcvuSDv2C654qotYIE0rvaACY3g5eBrZwGavPGe6dSPxRSZH5fGM9txM5M9MeVr0qq/fpqv3hWqri9/R8RNY/NndzHyI/d940xu1QGHWtULgyQ==
+X-DynEmail-Meta: 5g6iL2uhoZ8VT0slap0O7L8CI9Un0Oe5eZiXDrj2f8VX/jaOQxzEf8CF1gZ
+ IjUSUvZMppOHEzbeU98l0cxzUTITYveaHLGMccDSZhiCgTXkAsCOdS7VY8cnYIgSHvo1BIphItA
+ obP4CLLqdAhlWPk/cAm31pCF+jjYs2nFkScneqOa4jJSSDAiEaVU/BhntyQ/2p6fJ1LHpVm7t5g
+ D4OI1cqA8ajVvvV6SbdedZXOwv0nq1vqar7J94k8Wy6dEt2
+X-DynectEmail-Msg-Key: 20171214150653.00000072564f@mail6-48-usnbn1
+X-DynectEmail-X-Headers: 
+X-Feedback-ID: R29sZFRyYW4xM1ZNVEFz:477795:315291:dyn06
+List-Unsubscribe: <http://unsub.email.dynect.net/unsub?h=uq%2BBfAj52xW14oWUAmFFMOfDktVFyZWt68NHCoOqFcvuSDv2C654qotYIE0rvaACY3g5eBrZwGavPGe6dSPxRSZH5fGM9txM5M9MeVr0qq%2Ffpqv3hWqri9%2FR8RNY%2FNndzHyI%2Fd940xu1QGHWtULgyQ%3D%3D&i=20171214150653.00000072564f%40mail6-48-usnbn1>, <mailto:unsubscribe@dynect-email.com?subject=uq%2BBfAj52xW14oWUAmFFMOfDktVFyZWt68NHCoOqFcvuSDv2C654qotYIE0rvaACY3g5eBrZwGavPGe6dSPxRSZH5fGM9txM5M9MeVr0qq%2Ffpqv3hWqri9%2FR8RNY%2FNndzHyI%2Fd940xu1QGHWtULgyQ%3D%3D&message_id=20171214150653.00000072564f%40mail6-48-usnbn1>
+
+------=_Part_86943_10326248.1513264132896
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_86942_1302725462.1513264132896"
+Content-Disposition: inline
+Content-Description: Notification
+
+The contents of this message require a modern email client
+for correct display.  If you are reading this message, it may
+be because your reader is without MIME support.
+------=_Part_86942_1302725462.1513264132896
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+
+Hello SVR Travels India,
+
+Your message about "Enquiry Details From SVR Travels India" 
+has been waitlisted.  
+
+Please add yourself to my Boxbe Guest List so your messages will 
+go to my Inbox. 
+
+Click the link below to be added:
+https://www.boxbe.com/crs?tc_serial=35064946779&tc_rand=748196482&utm_source=stf&utm_medium=email&utm_campaign=CN_STDW&utm_content=002
+
+
+  Thank you,
+  nirmalamondal@gmail.com
+
+
+Powered by Boxbe -- "End Email Overload"
+Visit http://www.boxbe.com/how-it-works?tc_serial=35064946779&tc_rand=748196482&utm_source=stf&utm_medium=email&utm_campaign=CN_STDW&utm_content=002
+
+Boxbe, Inc. | 65 Broadway, Suite 601 | New York, NY 10006
+Privacy Policy: http://www.boxbe.com/privacy | Unsubscribe: http://www.boxbe.com/unsubscribe
+------=_Part_86942_1302725462.1513264132896
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<html><head></head><body>
+<div style=3D"width:500px;font-size:13px;font-family:'Lucida Grande', Helve=
+tica, Arial, sans-serif;">
+
+  <p style=3D"margin-bottom:7px;">
+    Hello SVR Travels India,
+  </p>
+
+ =20
+    <p style=3D"margin-bottom:7px;">Your message about "Enquiry Details Fro=
+m SVR Travels India" was waitlisted.</p>
+
+    <p style=3D"margin-bottom:7px;">
+      Please add yourself to my Guest List so your messages will be deliver=
+ed to my Inbox.  Use the link below. =20
+    </p>
+
+    <p style=3D"margin-bottom:7px;font-size:14px;font-weight:bold;">
+      <a href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue=
+&amp;H=3Duq%2BBfAj52xW14oWUAmFFMOfDktVFyZWt68NHCoOqFcvuSDv2C654qotYIE0rvaAC=
+Y3g5eBrZwGavPGe6dSPxRSZH5fGM9txM5M9MeVr0qq%2Ffpqv3hWqri9%2FR8RNY%2FNndzHyI%=
+2Fd940xu1QGHWtULgyQ%3D%3D&amp;G=3D819&amp;R=3Dhttps%3A%2F%2Fwww.boxbe.com%2=
+Fcrs%3Ftc_serial%3D35064946779%26tc_rand%3D748196482%26utm_source%3Dstf%26u=
+tm_medium%3Demail%26utm_campaign%3DCN_STDW%26utm_content%3D002&amp;I=3D2017=
+1214150653.00000072564f%40mail6-48-usnbn1&amp;X=3D&amp;S=3DdhHyNm7ml1mXFRcx=
+F6dYT7J9trXPwz1bx49O99Xag8o" style=3D"text-decoration:none;">
+        Click here to deliver your message
+      </a>
+    </p>
+
+
+
+ <p style=3D"margin-bottom:7px;">Thank you,<br>
+   nirmalamondal@gmail.com
+ </p>
+
+
+<p style=3D"margin-bottom:10px;">
+  <a style=3D"margin-bottom:8px;" href=3D"http://link.email.dynect.net/link=
+.php?DynEngagement=3Dtrue&amp;H=3Duq%2BBfAj52xW14oWUAmFFMOfDktVFyZWt68NHCoO=
+qFcvuSDv2C654qotYIE0rvaACY3g5eBrZwGavPGe6dSPxRSZH5fGM9txM5M9MeVr0qq%2Ffpqv3=
+hWqri9%2FR8RNY%2FNndzHyI%2Fd940xu1QGHWtULgyQ%3D%3D&amp;G=3D819&amp;R=3Dhttp=
+%3A%2F%2Fwww.boxbe.com%2Fhow-it-works%3Ftc_serial%3D35064946779%26tc_rand%3=
+D748196482%26utm_source%3Dstf%26utm_medium%3Demail%26utm_campaign%3DCN_STDW=
+%26utm_content%3D002&amp;I=3D20171214150653.00000072564f%40mail6-48-usnbn1&=
+amp;X=3D&amp;S=3D7CHq9njFJXaqRJrawZ1mSEWL9hszm3kFp_AQ-yiHgxQ"><img style=3D=
+"border:none;" src=3D"http://www.boxbe.com/images/boxbe.gif?tc_serial=3D350=
+64946779&amp;tc_rand=3D748196482&amp;utm_source=3Dstf&amp;utm_medium=3Demai=
+l&amp;utm_campaign=3DCN_STDW&amp;utm_content=3D002" alt=3D"Boxbe"></a><br>
+  Powered by Boxbe -- "End Email Overload"
+
+</p>
+
+<div style=3D"padding: 5px 10px 20px 0px; font-size:10px; color: #666;">
+  <p><span style=3D"color: #666; font-weight: bold;">Boxbe, Inc.</span> | 6=
+5 Broadway, Suite 601 | New York, NY 10006
+<br>
+<a href=3D"http://link.email.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=
+=3Duq%2BBfAj52xW14oWUAmFFMOfDktVFyZWt68NHCoOqFcvuSDv2C654qotYIE0rvaACY3g5eB=
+rZwGavPGe6dSPxRSZH5fGM9txM5M9MeVr0qq%2Ffpqv3hWqri9%2FR8RNY%2FNndzHyI%2Fd940=
+xu1QGHWtULgyQ%3D%3D&amp;G=3D819&amp;R=3Dhttp%3A%2F%2Fwww.boxbe.com%2Fprivac=
+y%3Ftc_serial%3D35064946779%26tc_rand%3D748196482%26utm_source%3Dstf%26utm_=
+medium%3Demail%26utm_campaign%3DCN_STDW%26utm_content%3D002&amp;I=3D2017121=
+4150653.00000072564f%40mail6-48-usnbn1&amp;X=3D&amp;S=3D5bsE557kjlmfp1NdIsD=
+Sh1ZtGIpyoZmRb0Icgbob-8Q">Privacy Policy</a> | <a href=3D"http://link.email=
+.dynect.net/link.php?DynEngagement=3Dtrue&amp;H=3Duq%2BBfAj52xW14oWUAmFFMOf=
+DktVFyZWt68NHCoOqFcvuSDv2C654qotYIE0rvaACY3g5eBrZwGavPGe6dSPxRSZH5fGM9txM5M=
+9MeVr0qq%2Ffpqv3hWqri9%2FR8RNY%2FNndzHyI%2Fd940xu1QGHWtULgyQ%3D%3D&amp;G=3D=
+819&amp;R=3Dhttp%3A%2F%2Fwww.boxbe.com%2Funsubscribe%3Ftc_serial%3D35064946=
+779%26tc_rand%3D748196482%26utm_source%3Dstf%26utm_medium%3Demail%26utm_cam=
+paign%3DCN_STDW%26utm_content%3D002&amp;I=3D20171214150653.00000072564f%40m=
+ail6-48-usnbn1&amp;X=3D&amp;S=3DXRo-2k0Fi_HgHRigahAV69yJv7Sbjl-Nd47xMcnm5wM=
+">Unsubscribe</a></p>
+</div>
+
+<img src=3D"http://www.boxbe.com/stfopen?tc_serial=3D35064946779&amp;tc_ran=
+d=3D748196482&amp;utm_source=3Dstf&amp;utm_medium=3Demail&amp;utm_campaign=
+=3DCN_STDW&amp;utm_content=3D002">=20
+
+</div>
+
+
+<img src=3D"http://trk.email.dynect.net/trk.php?a=3D/o2/819/uq%2BBfAj52xW14=
+oWUAmFFMOfDktVFyZWt68NHCoOqFcvuSDv2C654qotYIE0rvaACY3g5eBrZwGavPGe6dSPxRSZH=
+5fGM9txM5M9MeVr0qq%2Ffpqv3hWqri9%2FR8RNY%2FNndzHyI%2Fd940xu1QGHWtULgyQ%3D%3=
+D/i.gif&amp;i=3D20171214150653.00000072564f%40mail6-48-usnbn1&amp;x=3D" alt=
+=3D"" width=3D"2" height=3D"2"></body></html>
+------=_Part_86942_1302725462.1513264132896--
+
+------=_Part_86943_10326248.1513264132896
+Content-Type: message/delivery-status
+Content-Transfer-Encoding: 7bit
+Content-Description: Delivery report
+
+Reporting-MTA: dns; boxbe.com
+Remote-MTA: dns; yahoo.com
+Action: delayed
+Arrival-Date: Thu, 14 Dec 2017 06:06:39 -0800 (PST)
+
+Final-Recipient: rfc822; nirmalamondal@gmail.com
+Diagnostic-Code: X-Boxbe-Notice; message given low priority. To fix, see accompanying notice.
+Status: 4.7.0
+
+
+------=_Part_86943_10326248.1513264132896
+Content-Type: message/rfc822
+Content-Description: Undelivered Message
+
+Delivered-To: nirmala.mondal@gmail.com
+Received: by 10.100.224.143 with SMTP id z15csp6519709pji; Thu, 14 Dec 2017
+ 06:06:39 -0800 (PST)
+X-Google-Smtp-Source: ACJfBotNfQh11mc0MZ8fJzepNG0tl72K6AMIGjTPthJYM6trzu8v7ssd5YJR9SHJ6E4PuTEqEM29
+X-Received: by 10.157.91.15 with SMTP id x15mr5351061oth.78.1513260399361;
+ Thu, 14 Dec 2017 06:06:39 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1513260399; cv=none; d=google.com;
+ s=arc-20160816;
+ b=XxcoHlTas0Z3eTlTT0BJUKKchxPKOhELchMTz/uQp1xsKzwtDqMCq1hiaAXpocqe/5
+ AhJHh4Fg/qULBq94kqppqUjqmyfUYwwKj3O7AYR5Gm34tenfi1il2MWhmMx9PAU8EIIa
+ r5x5UaQixjcvUuO6nSU6qH2YDgQZqxQZthRqcmVp3ofzPXqkO6T7tas8/6pnZPcixOB5
+ QVYqnxvl/iojvlPsWahujCkGVvB5f/qCQkd62CiaXGNM4kROZfENzbYLjrXdIW4Puuwk
+ q+ATHR4bSA/3EgXOjfM8vUip5DfgInOvY6g84RSTfgtNW7GKQnXK72uPif8mPzed7Cyf YSzQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20160816; h=date:message-id:from:mime-version:subject:to
+ :arc-authentication-results; bh=hh93haHJ5vfLfLFxI4Lt4/lLJdp6ViJEd3d3CEL+KU8=;
+ b=RQenlKH2cNRC8KaIzdgbHdQmHc0XkA29mSc4YI1Hw1DGa+XZ4qJlo57XEKiROslGMQ
+ F9V6JG0F+aDsD9jXNljYCgAoGVqbrdJxE8peWud7ddxgM/WUqR8EcATZ6ArlTBOYpgIx
+ 5J850b1DWS6PrlldLy2/LzKzoMq9f62o+IZc+oyBus/0fEM9uqM7sNrMLOOdsNaSJSk6
+ uGFUYMjy79zIanvARlRXrG6W8fAgTxnU1XIUZHZQpswlHEwdhaz9jNOd8UGSPE7UJTue
+ ZmL8EbI6xYeVRZVNF1lApWIvJZU2tb6wbhNiBhGe5uHhcJ4KiHB3DruzM9DJcwLPmtAi hjdQ==
+ARC-Authentication-Results: i=1; mx.google.com; spf=pass (google.com: domain
+ of svrtravelsindia@prizm.websitewelcome.com designates 192.185.145.111 as
+ permitted sender) smtp.mailfrom=svrtravelsindia@prizm.websitewelcome.com
+Return-Path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from gateway32.websitewelcome.com (gateway32.websitewelcome.com.
+ [192.185.145.111]) by mx.google.com with ESMTPS id
+ u144si1283219oif.519.2017.12.14.06.06.38 for <nirmala.mondal@gmail.com>
+ (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 14 Dec
+ 2017 06:06:39 -0800 (PST)
+Received-SPF: pass (google.com: domain of
+ svrtravelsindia@prizm.websitewelcome.com designates 192.185.145.111 as
+ permitted sender) client-ip=192.185.145.111;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of
+ svrtravelsindia@prizm.websitewelcome.com designates 192.185.145.111 as
+ permitted sender) smtp.mailfrom=svrtravelsindia@prizm.websitewelcome.com
+Received: from cm11.websitewelcome.com (cm11.websitewelcome.com [100.42.49.5])
+ by gateway32.websitewelcome.com (Postfix) with ESMTP id 883A9895EF0 for
+ <nirmala.mondal@gmail.com>; Thu, 14 Dec 2017 08:06:38 -0600 (CST)
+Received: from prizm.websitewelcome.com ([192.185.12.45]) by cmsmtp with SMTP
+ id PU9meh8A7vkfxPU9meJeeI; Thu, 14 Dec 2017 08:06:38 -0600
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim
+ 4.89) (envelope-from <svrtravelsindia@prizm.websitewelcome.com>) id
+ 1ePU9m-000Gl5-5n; Thu, 14 Dec 2017 08:06:38 -0600
+To: info@svrtravelsindia.com
+Subject: Enquiry Details From SVR Travels India
+X-PHP-Script: www.svrtravelsindia.com/enquiry.php for 27.6.115.101
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com>
+Message-Id: <E1ePU9m-000Gl5-5n@prizm.websitewelcome.com>
+Date: Thu, 14 Dec 2017 08:06:38 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any
+ abuse report
+X-AntiAbuse: Primary Hostname - prizm.websitewelcome.com
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [12673 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - prizm.websitewelcome.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1ePU9m-000Gl5-5n
+X-Source: /opt/php54/bin/php-cgi
+X-Source-Args: /usr/bin/php /home/svrtravelsindia/public_html/enquiry.php
+X-Source-Dir: svrtravelsindia.com:/public_html
+X-Source-Sender: 
+X-Source-Auth: svrtravelsindia
+X-Email-Count: 2
+X-Source-Cap: c3ZydHJhdmVsc2luZGlhO2JpdHJhd2ViO3ByaXptLndlYnNpdGV3ZWxjb21lLmNvbQ==
+X-Local-Domain: yes
+
+
+------=_Part_86943_10326248.1513264132896--

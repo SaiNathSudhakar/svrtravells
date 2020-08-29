@@ -1,0 +1,233 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com with LMTP id eBgVHq7NzVuTVgEAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Mon, 22 Oct 2018 08:16:30 -0500
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Mon, 22 Oct 2018 08:16:30 -0500
+Received: from gateway31.websitewelcome.com ([192.185.144.218]:40863)
+	by prizm.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	id 1gEa4M-000Nbl-EX
+	for svrtravelsindia@prizm.websitewelcome.com; Mon, 22 Oct 2018 08:16:30 -0500
+Received: by gateway31.websitewelcome.com (Postfix)
+	id 49BDF14E4; Mon, 22 Oct 2018 08:16:30 -0500 (CDT)
+Date: Mon, 22 Oct 2018 08:16:30 -0500 (CDT)
+From: MAILER-DAEMON@gateway31.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: svrtravelsindia@prizm.websitewelcome.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="197EE11DA.1540214190/gateway31.websitewelcome.com"
+Message-Id: <20181022131630.49BDF14E4@gateway31.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--197EE11DA.1540214190/gateway31.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway31.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<info@svrtravelsindia.com>: host aspmx.l.google.com[108.177.104.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser h1si15862658otb.188 - gsmtp
+    (in reply to RCPT TO command)
+
+--197EE11DA.1540214190/gateway31.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway31.websitewelcome.com
+X-Postfix-Queue-ID: 197EE11DA
+X-Postfix-Sender: rfc822; svrtravelsindia@prizm.websitewelcome.com
+Arrival-Date: Mon, 22 Oct 2018 08:16:30 -0500 (CDT)
+
+Final-Recipient: rfc822; info@svrtravelsindia.com
+Original-Recipient: rfc822;info@svrtravelsindia.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser h1si15862658otb.188 - gsmtp
+
+--197EE11DA.1540214190/gateway31.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from cm14.websitewelcome.com (cm14.websitewelcome.com [100.42.49.7])
+	by gateway31.websitewelcome.com (Postfix) with ESMTP id 197EE11DA
+	for <info@svrtravelsindia.com>; Mon, 22 Oct 2018 08:16:30 -0500 (CDT)
+Received: from prizm.websitewelcome.com ([192.185.12.45])
+	by cmsmtp with SMTP
+	id Ea3Pg8dekkBj6Ea3sgByjX; Mon, 22 Oct 2018 08:16:29 -0500
+X-Authority-Reason: nr=8
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.91)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1gEa3O-000N9L-F0; Mon, 22 Oct 2018 08:15:30 -0500
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: Newsletter From SVR Travels India
+X-PHP-Script: www.svrtravelsindia.com/cpbedirection/news_letter_compose.php for 45.119.113.12
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1gEa3O-000N9L-F0@prizm.websitewelcome.com>
+Date: Mon, 22 Oct 2018 08:15:30 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - prizm.websitewelcome.com
+X-AntiAbuse: Original Domain - svrtravelsindia.com
+X-AntiAbuse: Originator/Caller UID/GID - [12673 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - prizm.websitewelcome.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1gEa3O-000N9L-F0
+X-Source: 
+X-Source-Args: /usr/bin/php /home/svrtravelsindia/public_html/cpbedirection/news_letter_compose.php 
+X-Source-Dir: svrtravelsindia.com:/public_html/cpbedirection
+X-Source-Sender: 
+X-Source-Auth: svrtravelsindia
+X-Email-Count: 12
+X-Org: HG=hgreseller;ORG=hostgator;
+X-Source-Cap: c3ZydHJhdmVsc2luZGlhO2JpdHJhd2ViO3ByaXptLndlYnNpdGV3ZWxjb21lLmNvbQ==
+X-Local-Domain: yes
+
+<style type='text/css'>
+	table, td, th { font-family: Verdana; font-size:12px; }
+	.clr { color: #FFFFFF; font-weight: bold; }</style>
+	<table width='500' border='0' align='center' cellpadding='5' cellspacing='0' style='border-bottom:2px solid #aaa'>	
+	  <tr>
+		<td height='30' align='center' valign='middle' bgcolor='#F2F2F2'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+			  <tr>
+				<td align='center' valign='top'><a href='http://www.svrtravelsindia.com/' target='_blank'>
+				<img src='http://www.svrtravelsindia.com/images/svr-travels.jpg' alt='svrtravelsindia' border='0' /></a></td>
+			  </tr>
+			  <tr>
+				<td align='center' valign='middle' bgcolor='#D50000'><table width='100%' border='0' cellspacing='0' cellpadding='0'>
+				  <tr>
+					<td height='40' align='center' valign='middle'>
+						<span class='clr' style='color: #FFFFFF; font-weight: bold;'>Newsletter From SVR Travels India</span>
+					</td>
+				  </tr>
+				</table>			  
+				</td>
+			  </tr>
+			</table>			
+		</td>
+	  </tr>
+	  <tr>
+		<td align='center' valign='top' bgcolor='#F2F2F2'><table width='90%' border='0' align='center' cellpadding='6' cellspacing='2' style='margin:10px;'>
+	  <tr><td colspan='3' align='justify'><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;text-align: center;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 16pt; font-family: Times; color: rgb(0, 0, 0); font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><span style="background-color:#008080;">BEST OF SRILANKA</span></span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 5pt; text-align: center;">
+	<span><span style="font-size: 16pt; font-family: Times; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Hyderabad-Colombo-Munneswaram-Manwari-Anuradhapura- Jaffna-Nagadweepa-Sevenwells-Trincomalee-Sigiriya--Dambulla- Kandy-Nuwara Eliya-Colombo-Hyderabad</span></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 5pt; text-align: center;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 14pt; font-family: Times; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">07 NIGHTS/08 DAYS</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<strong><u><span style="color:#000000;"><span style="font-size:20px;"><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-family: Times; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><span style="background-color:#ffffff;">Day 01(11/11/18): Arrive Colombo Intl Airport- Munneswaram - Manwari-Anuradhapura</span></span></span></span></span></u></strong></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Arrive Colombo Airport, Meet and Greet Proceed to Fresh up and Breakfast at Nigambo Hotel(if Arrive Early morning Flight) proceed to Munneswaram Mahakali Temple, Thereafter visit to manaweri Temple and then proceed to Anuradhapura First Capital of Sri Lanka in the 3 rd Century BC. Declared a World Heritage Site.,Check in at the hotel for lunch, Later Visit Sri Maha Bodhi, the oldest historically documented tree in the world, the Brazen Palace , Dagobas, Ruwanwelisaya, Abeygiri &amp; Jetawana Monasteries, finely preserved rock-cut statues of Lord Buddha and ruins of palaces, Isurumuniya rock temple. Dinner and Overnight stay at Anuradhapura Hotel. Muneswaram Temple, Chilaw: After his victorious battle, Lord Rama left for Ayodhy
+ a, in one of King Ravana&rdquo;s vimana (carriages).He felt he was being followed by bramhaasthi dosham as he had killed King Ravana who was a Brahmin. Legend has it that when he came to this place he felt bramhaasthi dosham was not following him and he stopped the vimana and asked God Shiva for remedy. Lord Shiva blessed Lord Rama and advised him to install four lingams there and pray to get rid of the dosham. Since then many Hindu devotees flock to the Temple. Manaweri Temple: Manavari is the first lingam installed and prayed to by Lord Rama and this lingam is also called</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"></span><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ramalinga Shivan.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span style="color:#000000;"><u><strong><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><span style="background-color:#ffffff;">Day 02(12/11/18) : Anuradhapura- Jafna(200 Km/3-4 Hrs)</span></span></span></strong></u></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span><span style="font-size: 15pt; font-family: Times; color: rgb(51, 51, 51); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">This Day After Breakfast Start transfer to Jaffna En-route You will have the rare opportunity to witness firsthand the destruction &amp; development taking place along the A 9 Highway, Reach Jaffna Check in to Hotel later Afternoon visit the Jaffna City Centre / Dutch Fort / Jaffna Library / Jaffna Museum / Nallur Hindu Temple / Naga Vihara / St James Church &amp; Seminary (Taste the Best Nelli Drink in the world), Time permitting you would get the opportunity to have a Swim at Casuarina Beach, Evening at Leisure (Complimentary Bottle of Palmyra Arrack. available only in Jaffna) Overnight Stay at the Hotel. </span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span style="color:#000000;"><u><strong><span><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">DAY 3(13/11/18):Jaffna -Nagadeepa - Jaffna</span></span></strong></u></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span><span style="font-size: 15pt; font-family: Times; color: rgb(51, 51, 51); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">this day after Breakfast proceed to Nagadeepa Temple: Nagadeepa is one of the small islands in the north. Most of the other islands are joined by land but to get to Nagadeepa you need to resort to a boat ride. From Jaffna town this is a good one hour journey, to the end of the road. Nagadeepa is very important to Buddhists as it was a place lord Buddha visited, Evening at Leisure, Dinner and overnight Stay at the Hotel. </span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span style="color:#000000;"><u><strong><span><span style="font-size: 15pt; font-family: Times; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><span style="background-color:#ffffff;">DAY 04(14/11/18) : Jaffna &ndash; Trincomalee ( 240 Km/3-4 Hrs)</span></span></span></strong></u></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span><span style="font-size: 15pt; font-family: Times; color: rgb(51, 51, 51); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">This Day After Breakfast proceed to Trincomalee for pooja and Dharshan of Thiru Koneswaram Temple, En-route visit to Sevenwells, Overnight at Trincomalee Hotel.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Thiru Koneshwaram (Shankari Devi Temple): Thiru Koneshwaram was built by sage Agasthyar as per the instructions of Lord Shiva who was impressed by the devotion of King Ravana. This place has the uniqueness of the lord building a temple for his devotee as a reward for his devotion. Lord Rama also offered his prayers on his return to get himself rid of the Brahmaasthi Dosham</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<u><strong><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Day 05(15/11/18): Trincoomalee-Sigiriya-Dambulla-Kandy</span></span></strong></u></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;text-align: justify;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Breakfast at The Hotel Proceed to Kandy , En-route you may visit to Sigiriya,Dumbulla Rock Temple and Spice Garden, Arrive Kandy Check in to Hotel After Lunch Proceed Kandy View Point and Walk surrounding Kandy lake in the Evening visit to tooth relic Temple and</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"></span><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Attend to Cultural Programme. Back to Hotel Overnight at Kandy Hotel.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 14pt; font-family: Times; color: rgb(74, 74, 74); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Sigiriya Breakfast at the hotel, and proceed to Trincomalee, En-route visit to Seven Wells, visit the shankaridevi Temple (Thiru Koneswaram Temple). Lunch at a restaurant (Sea Lotus Park Hotel) Evening visit Sigiriya Rock Fort, Dinner and overnight stay at Sigiriya Hotel. Sigiriya Rock fortress Rising from the central plains, the iconic rocky outcrop of Sigiriya is perhaps Sri Lanka&rsquo;s single most dramatic sight. Near-vertical walls soar to a flat-topped summit that contains the ruins of an ancient civilisation, thought to be once the epicentre of the short-lived kingdom of Kassapa, and there are spellbinding vistas across mist-wrapped forests in the early morning.Sigiriya refuses to reveal its sec
+ rets easily, and you&rsquo;ll have to climb a series of vertiginous staircases attached to sheer walls to reach the top. On the way you&rsquo;ll pass a series of quite remarkable frescoes and a pair of colossal lion&rsquo;s paws carved into the bedrock. The surrounding landscape &ndash; lily-pad-covered moats, water gardens and quiet shrines &ndash; and the excellent site museum, only add to Sigiriya&rsquo;s rock-star appeal. Dambulla Cave Temple Dambulla&rsquo;s famed Royal Rock Temple is an iconic Sri Lankan image &ndash; you&rsquo;ll be familiar with its spectacular Buddha-filled interior long before you arrive in town. Despite its slightly commercial air this remains an important holy place and should not be missed. Kandy Kandy is a large city in central Sri Lanka. It&#39;s set on a plateau surrounded by mountains, which are home to tea plantations and biodiverse rainforest. The city&#39;s heart is scenic Kandy Lake (Bogambara Lake), popular for strolling. It&#39;s famed for its
+  sacred Buddhist sites, including the Temple of the Tooth (Sri Dalada Maligawa) shrine, and for its Esala Perahera annual procession. </span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<u><strong><span style="color:#000000;"><span><span style="font-size: 14pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Day 06(16/11/18): Kandy-Ramboda-Sita Eliya-Nuwara Eliya</span></span></span></strong></u></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span><span style="font-size: 14pt; font-family: Times; color: rgb(74, 74, 74); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">This Day After Breakfast proceed to Nuwara Eliya, En-route visit to Ramboda (Sri Bhaktha Hanuman Temple) Arrive Nuwara Eliya Check in to Hotel Later Lunch Proceed to visit Sita Eliya(Sita Amman Temple),Ashokvatika, Hakagala Botanical Garden Dinner and overnight stay at Nuwara Eliya.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 14pt; font-family: Times; color: rgb(74, 74, 74); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"></span><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Sri Baktha Hanuman Temple, Ramboda : On these hills of Ramboda where Hanuman was searching for Sitadevi, the Chinmaya mission of Sri Lanka built a temple with Hanuman as the presiding deity. On every full moon day special pooja&rdquo;s are conducted and witnessed by thousands of devotees. Seetha Amman Temple, Seetha Eliya: The stream that runs from the hill, catered to the needs of Sitadevi during her stay at Ashoka Vatika. She is said to have bathed in this stream. Now there is a temple erected for Lord 
+ Rama, Sitadevi, Luxshmana and Hanuman by the side of this stream. It is interesting to note that footprints akin to Lord Hamunams are found by this river -some small and some large. The Hakgala Botanical Garden:</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;text-indent: 3.6pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">was one of the pleasure gardens of King Ravana of the well-known epic Ramayana. This garden was expanded during the British period and has a wide variety of flowers including an excellent collection of orchids.This is the exotic pleasure garden where king Ravana kept the depressed Sita, insisting that she marry him. It was here where the heart-warming meeting took place between her and Hanuman, who brought her Rama&rsquo;s ring with the news that Rama was looking for her. He offered to carry her back but she refused saying it would be an insult to Rama&rsquo;s honour if he did so. Divurumpola: Sita met Rama after the war, and Divurumpola is the place she under went the &quot;Agni&quot; test of fire where she proved her innocen
+ ce and purity to Rama. Divurumpola means the &quot;Place of Oath&quot; in Sinhala. She came out unscathed and proved her innocence and purity.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<u><strong><span style="color:#000000;"><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Day 07(17/11/18) : Nuwara Eliya- Colombo</span></span></span></strong></u></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;text-align: justify;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Breakfast at the hotel, and proceed to Colombo, Lunch at one of the Indian Restaurant at Colombo Later do a city tour of Colombo Visit Fort, the former British administrative centre and military garrison, Sea Street - the Goldsmith&#39;s quarters in the heart of Pettah, the Bazaar area, where there is a Hindu Temple with elaborate stone carvings, and the Dutch Church of Wolfendhal dating back to 1749. The historic</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;text-align: justify;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"></span><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Dawatagaha Mosque and the former Eye Hospital are two buildings in Cinnamon Gardens worth looking at. Also visit the BMICH, see the replica of Avukana Buddha and the Independence Square. Dinner and overnight stay at Colombo Hotel</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<u><strong><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Day 08(18/11/18): Depart to Colombo Airport</span></span></strong></u></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Breakfast at the hotel, and proceed to the airport for departure.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;text-indent: 130.56pt;">
+	<u><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><span style="background-color:#00ffff;">End of Tour. PP: 48,000/-</span></span></span></u></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 5pt; text-align: center;">
+	<strong><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">UL-178 HYD 1100 CMB 1225 11/11/18 UL-177 CMB 0725 HYD 0920 18/11/18</span></span></strong></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<strong><u><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The above cost includes:</span></span></u></strong></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Accommodation at the Given hotels or similar on H/B basis (B/fast, Dinner)</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Transport A/c Coach with the service of an English-speaking Chauffer / National</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Lunch at Local Indian Restaurant.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Entry Fees and Boat charges wherever be required.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<u><span style="color:#000000;"><span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The above price does not include:</span></span></span></u></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Camera &amp; Video permits.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Any expenses of personal nature.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Any other expenses not mentioned above.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Tips &amp; Portages &amp; Extras direct by the clients.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Any compulsory Peak period supplement during the tour.</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Optional tours</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 15pt; font-family: Times; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&bull; Entry Fees</span></span></p>
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:5pt;">
+	<span id="docs-internal-guid-b8d99a80-7fff-59a9-3202-f8104501c546"><span style="font-size: 14pt; font-family: Times; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">SVR TRAVELS INDIA (P) LTD Saibaba Temple Lane, Beside Pulla Reddy Sweets, Dilsukhnagar, Hyderabad-04, 9705008289, 9848828289, 9676668289,9030082829.</span></span><span style="background-color: transparent; color: rgb(0, 0, 0); font-family: Times; font-size: 14pt; font-weight: 700; white-space: pre-wrap;"> janardhan@svrtravelsindia.com www.svrtravelsindia.com Branches: New Delhi, Warangal, Hyderabad</span></p>
+<div>
+	&nbsp;</div>
+</td></tr></table></td>
+	  </tr>
+	</table>
+
+--197EE11DA.1540214190/gateway31.websitewelcome.com--

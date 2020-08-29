@@ -1,0 +1,10 @@
+cash coupon
+online transaction
+
+cash coupon
+Offer Code
+
+$q = mysql_query("select ba_journey_date, ba_total_fare, ba_source_name, ba_destination_name, ba_travels_name from svr_api_orders where ba_email = '".$_POST['email']."' and ba_ticket_no = '".
+."'");
+
+} if(!empty($_POST['email']) && $_POST['ticket'] == 1 && !empty($_POST['cancel_ticket'])) {

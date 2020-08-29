@@ -1,0 +1,155 @@
+#seatlayout_custom{border:1px solid #CCC; padding:2px; margin:0 auto;}
+
+#seatlayout_custom td{padding:0; margin:0;}
+
+.seatlayout_img_custom .container_vert_un img {margin-top:-2px;}
+
+.seatbox {
+    width: 95%;
+    border: 1px solid #e2e2e2;
+    margin: 0px auto;
+	padding:1em;
+	margin-top:2em;
+}
+
+.seatbook{float:left; margin:0 0 0 5em;}
+.seatbook div.driver{width:50px; height:50px; float:left;}
+.seatbook ul{padding:0; margin:0; list-style:none; width:300px; float:left;}
+.seatbook li{display:block; width:20px; height:20px; float:left; margin:2px 4px;}
+.seatbook li.midgap{height:10px;}
+.seatbook li a{display:block; width:20px; height:20px; background-repeat:no-repeat;}
+.seatbook li a.available{background-image:url(../images/seats.png); background-position:0 1px;}
+.seatbook li a.soldout{background-image:url(../images/seats.png); background-position:0 -39px; cursor:default;}
+.seatbook li a.ladies{background-image:url(../images/seats.png); background-position:0 -20px;}
+.seatbook li a.selected{background-image:url(../images/seats.png); background-position:0 -59px;}
+
+.seatdisc{float:left; margin:0 0 0 3em; }
+.seatdisc p.left{float:left; width:130px; font-size:13px; font-weight:400; color:#656565;}
+.seatdisc p.right{float:right; width:100px; font-size:13px; font-weight:400; color:#8e8e8e;}
+.seatdisc p.right img{margin:0 .3em 0 0; padding:0}
+.legend {
+    font-size: 13px;
+    color: #575757;
+	float:left;
+	margin:0 0 0 1em;
+	padding:0;
+	display:inline;
+	font-weight:400;
+}
+
+.legend label {
+    line-height: 19px;
+    display: inline;
+    margin: 10px 1.5em 0 0;
+	float:left;
+}
+
+.legend .seat.available {
+    background-position: 0px 0px;
+}
+.legend .seat {
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-image: url(../images/seats.png);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.legend .seat.ladies {
+    background-position: 0px -20px;
+}
+.legend .seat {
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-image: url(../images/seats.png);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.legend .seat.selected {
+    background-position: 0px -60px;
+}
+.legend .seat {
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-image: url(../images/seats.png);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.legend .seat.booked {
+    background-position: 0px -40px;
+}
+.legend .seat {
+    float: left;
+    width: 20px;
+    height: 20px;
+    background-image: url(../images/seats.png);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+
+
+/* According Plus Minus */
+.accordionButton.on {background:url(../images/minus-sign.png) no-repeat scroll right 9px #E3E3E3;}
+ .ie6 .accordionButton.on {background:url(../images/minus-sign.png) no-repeat scroll right 9px #E3E3E3; }
+.accordionButton.on:hover {	background-color:#E3E3E3}
+.accordionContent {
+	float:left;
+	margin:0;
+	padding:0 10px 10px 10px;
+	line-height:20px;
+	background:#E3E3E3;
+	border:1px solid #E3E3E3;
+	color:#434343;
+}
+
+
+.accordionButton {
+	background:url(../images/plus-sign.png) no-repeat scroll right 9px transparent;
+	border:1px solid #E3E3E3;
+	color:#040404;
+	cursor:pointer;
+	float:left;
+	font-size:16px;
+	font-weight:normal;
+	line-height:30px;
+	margin:5px 0 0 0;
+	padding:0 0 0 10px;
+	width:760px
+}
+.ie7 .accordionButton {
+	background:url(../images/plus-sign.png) no-repeat scroll right 9px transparent;
+	border:1px solid #E3E3E3;
+	color:#040404;
+	cursor:pointer;
+	float:none;
+	font-size:12px;
+	font-weight:bold;
+	line-height:34px;
+	margin:5px 0 0 0;
+	padding:0 0 0 10px;
+	width:730px
+}
+.ie6 .accordionButton {
+	background:url(../images/plus-sign.png) no-repeat scroll right 9px transparent;
+	border:1px solid #E3E3E3;
+	color:#040404;
+	cursor:pointer;
+	float:none;
+	font-size:12px;
+	font-weight:bold;
+	line-height:34px;
+	margin:5px 0 0 0;
+	padding:0 0 0 10px;
+	width:730px
+}
+.accordionButton:hover {background-color:#E3E3E3}
+
+.btn{ background-color:#FF3300; padding:3px 8px; font-size:14px; color:#FFFFFF; border:none; cursor:pointer; border-radius:2px; font-weight:normal;transition: background 1s, color 1s, padding 0.5s, margin 0.5s; -moz-transition: background 1s, color 1s, padding 0.5s, margin 0.5s; -webkit-transition: background 1s, color 1s, padding 0.5s, margin 0.5s; -o-transition: background 1s, color 1s, padding 0.5s, margin 0.5s;}
+
+.btn:hover{ background-color:#333333}

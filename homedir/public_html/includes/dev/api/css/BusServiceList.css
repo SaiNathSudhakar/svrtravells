@@ -1,0 +1,70 @@
+﻿#CSSTableGenerator
+{
+font-family:'Roboto Condensed', sans-serif;
+width:100%;
+padding:0;
+margin:0;
+}
+#CSSTableGenerator td, #CSSTableGenerator th 
+{
+font-size:13px;
+border-right:1px solid #e2e2e2 ;
+padding:5px 5px 4px 5px;
+}
+
+/*td:first-child {  
+border-left:1px solid #e2e2e2 ;
+}*/
+
+
+#CSSTableGenerator th 
+{
+	font-size:16px;
+	text-align:left;
+	padding-top:8px;
+	padding-bottom:7px;
+	background-color:#e30000;/*#31336d;*/
+	color:#fff;
+	font-weight:400;
+}
+#CSSTableGenerator tr.alt td 
+{
+	color:#000;
+	background-color:#ededed;
+}
+
+.btn{ background-color:#FF3300; padding:3px 8px; font-size:14px; color:#FFFFFF; border:none; cursor:pointer; border-radius:2px; font-weight:normal;transition: background 1s, color 1s, padding 0.5s, margin 0.5s; -moz-transition: background 1s, color 1s, padding 0.5s, margin 0.5s; -webkit-transition: background 1s, color 1s, padding 0.5s, margin 0.5s; -o-transition: background 1s, color 1s, padding 0.5s, margin 0.5s;}
+.btn:hover{ background-color:#333333}
+
+.bustbl {padding:1em 2em  ;}
+
+/*Styles added by Sarah - Start*/
+
+#CSSTableGenerator thead tr th{ white-space:nowrap; }
+
+#CSSTableGenerator thead {
+  cursor: pointer;
+  background: #c9dff0;
+}
+
+#CSSTableGenerator thead tr th span { 
+  padding-right: 20px;
+  background-repeat: no-repeat;
+}
+
+#CSSTableGenerator thead tr th.headerSortUp, #CSSTableGenerator thead tr th.headerSortDown {
+  background: #e30000; /*#31336d;*/
+}
+
+#CSSTableGenerator thead tr th.headerSortUp span {
+  background-image: url('../images/sort_up.png');
+	background-position: 100% 8px;
+}
+#CSSTableGenerator thead tr th.headerSortDown span {
+  background-image: url('../images/sort_down.png');
+  	background-position: 100%;
+}
+
+#CSSTableGenerator .header { height:21px; }
+
+/*Styles added by Sarah - Start*/

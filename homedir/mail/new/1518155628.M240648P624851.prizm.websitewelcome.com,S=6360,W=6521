@@ -1,0 +1,161 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com (Dovecot) with LMTP id MaUhDmw3fVrTiAkAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Thu, 08 Feb 2018 23:53:48 -0600
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Thu, 08 Feb 2018 23:53:48 -0600
+Received: from mailnull by prizm.websitewelcome.com with local (Exim 4.89_1)
+	id 1ek1d6-002fBF-3U
+	for svrtravelsindia@prizm.websitewelcome.com; Thu, 08 Feb 2018 23:53:48 -0600
+X-Failed-Recipients: 27pizzarest@gmaill.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@prizm.websitewelcome.com>
+To: svrtravelsindia@prizm.websitewelcome.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1518155628-eximdsn-1009721755
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ek1d6-002fBF-3U@prizm.websitewelcome.com>
+Date: Thu, 08 Feb 2018 23:53:48 -0600
+
+--1518155628-eximdsn-1009721755
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  27pizzarest@gmaill.com
+    host cm.websitewelcome.com [100.42.49.18]
+    SMTP error from remote mail server after RCPT TO:<27pizzarest@gmaill.com>:
+    550 5.1.1 <27pizzarest@gmaill.com> recipient rejected
+
+--1518155628-eximdsn-1009721755
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; prizm.websitewelcome.com
+
+Action: failed
+Final-Recipient: rfc822;27pizzarest@gmaill.com
+Status: 5.0.0
+Remote-MTA: dns; cm.websitewelcome.com
+Diagnostic-Code: smtp; 550 5.1.1 <27pizzarest@gmaill.com> recipient rejected
+
+--1518155628-eximdsn-1009721755
+Content-type: message/rfc822
+
+Return-path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.89_1)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1ek1d5-002fAX-Cd; Thu, 08 Feb 2018 23:53:47 -0600
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: Your transaction at SVR Travels India has failed
+X-PHP-Script: www.svrtravelsindia.com/confirm-ticket.php for 27.59.250.188
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1ek1d5-002fAX-Cd@prizm.websitewelcome.com>
+Date: Thu, 08 Feb 2018 23:53:47 -0600
+
+<style type='text/css'>
+	table, td, th { font-family: Verdana; font-size:12px; }
+	.clr { color: #FFFFFF; font-weight: bold; }</style>
+	<table width='500' border='0' align='center' cellpadding='5' cellspacing='0' style='border-bottom:2px solid #aaa'>	
+	  <tr>
+		<td height='30' align='center' valign='middle' bgcolor='#F2F2F2'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+			  <tr>
+				<td align='center' valign='top'><a href='http://www.svrtravelsindia.com/' target='_blank'>
+				<img src='http://www.svrtravelsindia.com/images/svr-travels.jpg' alt='svrtravelsindia' border='0' /></a></td>
+			  </tr>
+			  <tr>
+				<td align='center' valign='middle' bgcolor='#D50000'><table width='100%' border='0' cellspacing='0' cellpadding='0'>
+				  <tr>
+					<td height='40' align='center' valign='middle'>
+						<span class='clr' style='color: #FFFFFF; font-weight: bold;'>Your transaction at SVR Travels India has failed</span>
+					</td>
+				  </tr>
+				</table>			  
+				</td>
+			  </tr>
+			</table>			
+		</td>
+	  </tr>
+	  <tr>
+		<td align='center' valign='top' bgcolor='#F2F2F2'><table width='100%' border='0' align='center' cellpadding='3' cellspacing='2' style='margin:10px;'>
+		  <tr>
+			<td colspan=3>Dear Customer,</td>
+		  </tr>
+		  <tr>
+			<td colspan=3>We have noticed that you were trying to place an order for Hyderabad to Bangalore on February 09, 2018 at 11:16 AM. <strong>Your payment of Rs. 802.00 has been deducted</strong> but due to a technical issue the ticket could not be issued.</td>
+		  </tr>
+		  <tr>
+			<td colspan=3>Your trip id is: <u>1000005725960797990</u>. Please quote this trip id for all further communication.</td>
+		  </tr>
+		  <tr>
+			<td colspan=3>Please do not worry - your money would be <strong>refunded</strong> within <strong>7 working days.</strong></td>
+		  </tr>
+		  <tr>
+			<td colspan=3>We suggest that you go ahead and book another ticket.</td>
+		  </tr><tr>
+		<td width='15%'><strong>Your Email</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>27pizzarest@gmaill.com</td>
+	  </tr>
+	  <tr>
+		<td width='15%'><strong>Contact Number</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>7993615293</td>
+	  </tr>
+	  <tr>
+		<td width='15%'><strong>Trip ID</strong></td>
+		<td width='3%' align='center'><strong>:</strong></td>
+		<td align='left'>1000005725960797990</td>
+	  </tr>
+	  <tr>
+		<td nowrap='nowrap'><strong>Journey</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td nowrap='nowrap' align='left'>Hyderabad --> Bangalore, February 09, 2018 09:35 PM</td>
+	  </tr>
+	  <tr>
+		<td><strong>No. of Persons</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>1</td>
+	  </tr>
+	  <tr>
+		<td><strong>Seat(s)</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>16</td>
+	  </tr>
+	  <tr>
+		<td><strong>Total Fare</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Rs. 802.00</td>
+	  </tr>
+	  <tr>
+		<td><strong>Travel</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Komitla Travels Non A/C Semi Sleeper (2+2)</td>
+	  </tr>
+	  <tr>
+		<td nowrap=nowrap><strong>Boarding Details</strong></td>
+		<td align='center'><strong>:</strong></td>
+		<td align='left'>Boarding from Kphb   pickup van - 09:35 PM</td>
+	  </tr>
+	  <tr>
+		<td colspan=3>&nbsp;</td>
+	  </tr>
+	  <tr>
+		<td colspan=3>Best Regards,<br>---<br>Your friends at SVR Travels</td>
+	  </tr>
+	  <tr>
+		<td colspan=3><div><em>E-mail us: <a href='mailto:support@svrtraveslindia.com' target='_blank'>support@svrtraveslindia.com</a></em></div>
+		  <div><em>Call us: +91 9848828289 / +91 9705008289.</em></div></td>
+	  </tr>
+	</table></td>
+	  </tr>
+	</table>
+
+--1518155628-eximdsn-1009721755--

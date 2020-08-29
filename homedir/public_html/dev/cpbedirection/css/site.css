@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body{ font-family:"Trebuchet MS"; font-size: 13px; margin:0px;}
+.box_bgt{background:url(images/inner/s-box_02.gif); background-repeat: repeat-x; background-position: bottom; height:6px;}
+.box_bgtl{background:url(images/inner/s-box_01.gif); background-repeat: no-repeat; background-position: bottom;width:6px;}
+.box_bgtr{background:url(images/inner/s-box_03.gif); background-repeat: no-repeat; background-position: bottom;width:6px;}
+.box_bgl{background:url(images/inner/s-box_04.gif);}
+.box_bgr{background:url(images/inner/s-box_06.gif);}
+.box_bgb{background:url(images/inner/s-box_08.gif); background-repeat: repeat-x; background-position: bottom; height:6px;}
+.box_bgbl{background:url(images/inner/s-box_07.gif); background-repeat: no-repeat; background-position: bottom; }
+.box_bgbr{background:url(images/inner/s-box_09.gif); background-repeat: no-repeat; background-position: bottom;}
+.blue_bg{font-size:11px; color:#FFFFFF; background:#125AA2; font-weight:bold;} /*-006FBD-0088EC-656565*/
+.main_heading_white{height:20px; color:#FFFFFF; font-size:11px; font-weight: bold; padding-left:3px; }
+.OrangeButton{BORDER-RIGHT: #FF974A 1px inset; BORDER-LEFT: #FF974A 1px outset; BORDER-TOP: #FF974A 1px outset; FONT-SIZE: 11px; BACKGROUND-IMAGE: none; background-color:#FF974A; color:#FFFFFF; font-weight:bold; BORDER-BOTTOM: #FF974A 1px inset; FONT-FAMILY: Tahoma; cursor:pointer}
+.grn_subhead{height:20px;color:#339933;font-size:11px;padding-left:3px;}
+.curve-border{border: 1px solid #666; background: #ffffff ; color:#222222; -moz-border-radius: 3px; -webkit-border-radius: 3px;}
+.red{color:#FF0000}
+.box{font-size:11px; font-family:Verdana, Arial, Helvetica, sans-serif; color:#000000}
+.main_heading{height:20px; color:#0B55C4; font-size:11px; font-weight: bold; padding-left:3px; }
+.bor_task{border:1px solid #CDCDCD}
+table.datatable td{border-bottom: 1px solid #E9E9E9;}
+table.nodatatable td{border-bottom:none;}
+.Button2{BORDER-RIGHT: #000000 1px outset; text-decoration:none; BORDER-LEFT: #000000 1px inset; BORDER-TOP: #000000 1px outset; FONT-SIZE: 11px; BACKGROUND-IMAGE: none;  background-color:#FE8F00; color:#000000; font-weight:bold; BORDER-BOTTOM: #000000 1px outset;FONT-FAMILY: Tahoma; padding-bottom:3px; padding-left:7px; padding-right:7px; padding-top:3px;}
+.border_curved{border:1px solid #999999; border-radius:3px;}
+.blue_read:link{color:#333; font-weight:bold; text-decoration:none; margin-right:14px;font-size:12px;}
+.blue_read:visited{color:#333; font-weight:bold; text-decoration:none; margin-right:14px; font-size:12px;}
+.blue_read:hover{color:#FB8800; font-weight:bold; text-decoration:none; margin-right:14px; font-size:12px;}
+.blue_read:active{color:#333; font-weight:bold; text-decoration:none; margin-right:14px; font-size:12px;}
+.links:link{color:#006fbd; text-decoration:none; font-size:11px;}
+.links:visited{color:#006fbd; text-decoration:none; font-size:11px;}
+.links:hover{color:#595959; text-decoration:none; font-size:11px;}
+.links:active{color:#006fbd; text-decoration:none; font-size:11px;}
+

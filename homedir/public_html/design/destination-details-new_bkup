@@ -1,0 +1,149 @@
+<style>
+#tourplace {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#tourplace td, #tourplace th {
+  border: 2px solid #fff;
+  padding: 8px;
+	color: #fff;
+
+
+}
+
+#tourplace tr:nth-child(even){background-color: #c2c2da; }
+#tourplace tr:nth-child(odd){background-color: #8e90ce; }
+
+#tourplace tr:hover {background-color: #4d4f88;}
+
+#tourplace th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: white;
+  background-color: #4d4f88;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+	border-bottom: 1px solid #f9b32f;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+	color: #f9b32f!important;
+	background-color: transparent!important;
+
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+	color: #f9b32f!important;
+	background-color: transparent!important;
+	border: 1px solid #f9b32f!important;
+	border-bottom: solid 1px #fff!important;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+</style>
+
+<div style="width:100%">
+  <!-- Banner Start-->
+  <? $images = $path = '';
+  if(!empty($_GET['sid']) && $nav['subcat_banner_image'] != '') {
+    $images = explode('|', $nav['subcat_banner_image']);
+    $path = 'uploads/tour_packages/'.$nav['subcat_ref_no'].'/';
+  } galleryImagesHome($images, $path); ?>
+  <!-- Banner End-->
+  <div class="row">
+    <!-- Lastest News Scrolling Start-->
+    <div class="lastesnewsscroll">
+      <div class="bg" align="center">
+        LATEST NEWS SCROLLING
+      </div>
+    </div>
+    <!-- Lastest News Scrolling End-->
+  </div>
+	<div class="row">
+		<h1><?=$row_loc['tloc_code'].": ".$row_loc['tloc_name'];?>
+	</div>
+	<div class="row">
+		<div class="tab">
+		  <button class="tablinks" onclick="openCity(event, 'CostIncludes')">Cost Includes</button>
+		  <button class="tablinks" onclick="openCity(event, 'CostExcludes')">Cost Excludes</button>
+		  <button class="tablinks" onclick="openCity(event, 'TermsCondition')">Terms & Conditions</button>
+		</div>
+		<div id="CostIncludes" class="tabcontent">
+			<?php
+				$cst_inc = explode("|", $row_loc['tloc_cost_includes']);
+				if(sizeof($cst_inc) > 1) {
+			?>
+			<div class="cost_links">
+			<div class="title">Cost Includes</div>
+				<ul>
+					<? foreach($cst_inc as $cinc){?><li><?=$cinc;?></li><? } ?>
+				</ul>
+			</div>
+		  </div>
+
+		<?php } ?>
+		</div>
+
+		<div id="CostExcludes" class="tabcontent">
+			<?php
+				$cst_exc = explode("|", $row_loc['tloc_cost_excludes']);
+				if(sizeof($cst_exc) > 1) {
+			?>
+			<div class="cost_links">
+				<div class="title">Cost Excludes</div>
+				<ul>
+					<? foreach($cst_exc as $cexc){?><li><?=$cexc;?></li><? } ?>
+				</ul>
+			</div>
+		  </div>
+
+		<?php } ?>
+		</div>
+
+		<div id="TermsCondition" class="tabcontent">
+		  <h3>Terms & conditions</h3>
+		  <p>Terrms is the capital of Japan.</p>
+		</div>
+	</div>
+	<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>

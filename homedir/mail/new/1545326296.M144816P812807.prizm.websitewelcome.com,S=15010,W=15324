@@ -1,0 +1,314 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com with LMTP id OAaCCNjOG1wHZwwAu/fNIw
+	for <svrtravelsindia@prizm.websitewelcome.com>; Thu, 20 Dec 2018 11:18:16 -0600
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Thu, 20 Dec 2018 11:18:16 -0600
+Received: from gateway22.websitewelcome.com ([192.185.47.144]:14796)
+	by prizm.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	id 1ga1xg-003QZu-3h
+	for svrtravelsindia@prizm.websitewelcome.com; Thu, 20 Dec 2018 11:18:16 -0600
+Received: by gateway22.websitewelcome.com (Postfix)
+	id 075B78E0B; Thu, 20 Dec 2018 11:18:16 -0600 (CST)
+Date: Thu, 20 Dec 2018 11:18:16 -0600 (CST)
+From: MAILER-DAEMON@gateway22.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: svrtravelsindia@prizm.websitewelcome.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="D22008AA6.1545326296/gateway22.websitewelcome.com"
+Message-Id: <20181220171816.075B78E0B@gateway22.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--D22008AA6.1545326296/gateway22.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway22.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<info@svrtravelsindia.com>: host aspmx.l.google.com[209.85.235.27] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser h6si8587237otb.188 - gsmtp
+    (in reply to RCPT TO command)
+
+--D22008AA6.1545326296/gateway22.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway22.websitewelcome.com
+X-Postfix-Queue-ID: D22008AA6
+X-Postfix-Sender: rfc822; svrtravelsindia@prizm.websitewelcome.com
+Arrival-Date: Thu, 20 Dec 2018 11:18:15 -0600 (CST)
+
+Final-Recipient: rfc822; info@svrtravelsindia.com
+Original-Recipient: rfc822;info@svrtravelsindia.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser h6si8587237otb.188 - gsmtp
+
+--D22008AA6.1545326296/gateway22.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from cm14.websitewelcome.com (cm14.websitewelcome.com [100.42.49.7])
+	by gateway22.websitewelcome.com (Postfix) with ESMTP id D22008AA6
+	for <info@svrtravelsindia.com>; Thu, 20 Dec 2018 11:18:15 -0600 (CST)
+Received: from prizm.websitewelcome.com ([192.185.12.45])
+	by cmsmtp with SMTP
+	id a1xfg2Nja2qH7a1xfgl0YD; Thu, 20 Dec 2018 11:18:15 -0600
+X-Authority-Reason: nr=8
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.91)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1ga1xf-003QYo-F8; Thu, 20 Dec 2018 11:18:15 -0600
+To: sreedhar.kodakalla@gmail.com
+Subject: SVR Bus Ticket: D3A5YXKN
+X-PHP-Script: www.svrtravelsindia.com/confirm-ticket.php for 183.83.137.137
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India  <dsnr@svrtravelsindia.com> 
+Message-Id: <E1ga1xf-003QYo-F8@prizm.websitewelcome.com>
+Date: Thu, 20 Dec 2018 11:18:15 -0600
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - prizm.websitewelcome.com
+X-AntiAbuse: Original Domain - svrtravelsindia.com
+X-AntiAbuse: Originator/Caller UID/GID - [12673 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - prizm.websitewelcome.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1ga1xf-003QYo-F8
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: svrtravelsindia.com:/public_html
+X-Source-Sender: 
+X-Source-Auth: svrtravelsindia
+X-Email-Count: 19
+X-Org: HG=hgreseller;ORG=hostgator;
+X-Source-Cap: c3ZydHJhdmVsc2luZGlhO2JpdHJhd2ViO3ByaXptLndlYnNpdGV3ZWxjb21lLmNvbQ==
+X-Local-Domain: yes
+
+
+<table class="mt10">
+
+<tr>
+<td colspan="6"> 
+    <div style="background-color:#f1f1f1;width:98%;padding:10px;border-top:1px solid #ccc;border-bottom:1px solid #ccc;overflow:hidden">
+         <a href="http://www.svrtravelsindia.com/print_ticket.php?tin=0agVQEEiRvFuHwuyTyw65NdJ4fRHxH22hu9Xtfgdo34=&printit=mlM9zlvNyusBKlJ8sdVhiPUxzEH9m+34vDK+xcNdPBA=" style="border-radius:5px;padding:5px 20px 6px;font-size:14px;color:#666;border:1px solid #ccc;background:rgb(255,255,255);background:-moz-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(221,221,221,1) 100%);background:-webkit-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(221,221,221,1) 100%);background:-o-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(221,221,221,1) 100%);background:-ms-linear-gradient(top,rgba(255,255,255,1) 0%,rgba(221,221,221,1) 100%);background:linear-gradient(to bottom,rgba(255,255,255,1) 0%,rgba(221,221,221,1) 100%);text-decoration:none;float:right;margin-right:20px" target="_blank">
+         Print Ticket
+        </a>
+    </div>
+</td>
+</tr>
+
+<tr><td>
+<!--<div id="printableArea">-->
+<!-- start of container -->
+<div style="width:750px; margin:auto; border:2px solid #ccc; padding:10px;" id="printableArea">
+<style>.mt10{margin-top:10px;}.mb10{margin-bottom:10px;}</style>
+ <!-- start of span_24 -->
+ <div style="width:450px; float:left;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0; padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;">
+	   <tr>
+		  <td colspan="2"><img src="http://www.svrtravelsindia.com/images/svr-travels.jpg" width="300" /></td>
+	   </tr>
+	   <tr>
+		  <td colspan="2">&nbsp;</td>
+	   </tr>
+	   <tr>
+		  <td width="25%"><strong>Route</strong></td>
+		  <td width="75%" height="25"><strong>Hyderabad &rarr; Shirdi</strong></td>
+	   </tr>
+	   <tr>
+	     <td height="25"><strong>Date</strong></td>
+	     <td align="left"><strong>24-12-2018</strong></td>
+	     </tr>
+	   <tr>
+		  <td height="25"><strong>Bus Operator</strong></td>
+		  <td align="left" style="font-size:15px;font-weight:bold;color:#333;">Orange Tours & Travels</td>
+	   </tr> 
+              <tr>
+		  <td height="25"><strong>Contact</strong></td>
+		  <td align="left" style="font-size:15px;font-weight:bold;color:#333;">7729995235  9246566688</td>
+	   </tr>
+       	</table>
+ </div>
+ <div style="width:300px; float:right;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0; padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;">
+	   <tr>
+		  <td height="25"><span style="font-size:15px;font-weight:bold;color:#0099cc;">SVR Travels India Private Limited</span></td>
+	   </tr>
+	   <tr>
+		  <td><strong>Contact No. 040-6999 8289, 040-6550 4140</strong></td>
+	   </tr>
+	   <tr>
+		  <td>
+			 <div style="width:275px;padding:5px;margin-top:15px;border:3px double #ccc;">
+				<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:0; padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;">
+				   <tr>
+					  <td width="39%">PNR # </td>
+					  <td width="61%" height="20"> <strong>D3A5YXKN</strong></td>
+				   </tr>
+				   <tr>
+					  <td>Ticket #</td>
+					  <td height="20">D3A5YXKN</td>
+				   </tr>
+				   <tr>
+					  <td>Seat (s)</td>
+					  <td height="20">B3, B4</td>
+				   </tr>
+				</table>
+			 </div>
+		  </td>
+	   </tr>
+	</table>
+ </div>
+ <div style="clear:both;"></div>
+ <div style="width:750px;margin-top:15px;padding:5px;height:auto;background:#fcfce1;border-top:1px solid #ffcc00;border-bottom:1px solid #ffcc00;">
+	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:0; padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;">
+	   <tr>
+		  <td width="" height="30" valign="middle"><strong>Passenger Name</strong></td>
+		  <td width="" valign="middle"><strong>Age</strong></td>
+		  <td width="" valign="middle"><strong>Seat Name</strong></td>
+		  <td width="" valign="middle"><strong>Amount</strong></td>
+		  <td width="" valign="middle"><strong>Mobile</strong></td>
+		  		  <td width="" valign="middle"><strong>Email</strong></td>	   </tr>
+	   	   <tr>
+		  <td height="30">Mr. Aditya K </td>
+		  <td height="30">16</td>
+		  <td><strong>B3</strong></td>
+		  <td>Rs. 1680.00</td>
+		  <td>9848035385</td>
+		  		  <td>sreedhar.kodakalla@gmail.com</td>	   </tr>
+	   	   <tr>
+		  <td height="30">Ms. Aarushi K </td>
+		  <td height="30">12</td>
+		  <td><strong>B4</strong></td>
+		  <td>Rs. 1680.00</td>
+		  <td></td>
+		  		  <td></td>	   </tr>
+	   	</table>
+ </div>
+ <div style="width:750px;margin-top:15px;padding:5px 5px 15px 5px;height:auto;border-bottom:2px solid #ccc;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0; padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;">
+	   <tr>
+		  <td width="23%" height="30"><u><strong>Bus Type</strong></u></td>
+		  <td width="25%" align="center"><u><strong>Reporting Time</strong></u></td>
+		  <td width="24%" align="center"><u><strong>Departure time</strong></u></td>
+		  <td width="28%"><strong>Boarding Point Address</strong></td>
+	   </tr>
+	   <tr>
+		  <td height="18">Volvo A/C Multi Axle Semi Sleeper (2+2)</td>
+		  <td align="center">08:00 PM</td>
+		  <td align="center">08:30 PM</td>
+		  <td rowspan="5" valign="top" style="line-height:20px;">
+		  		  	<strong>Location :</strong>  Suchitra<br>
+		            <strong>Address :</strong> Orange Travels,Opposite To Swagath Grand Hotel , Beside Las Vegas<br>          <strong>Landmark :</strong> Orange Travels,Opposite To Swagath Grand Hotel , Beside Las Vegas          </td>
+	   </tr>
+	   <tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+	   </tr>
+	   <tr>
+			<td height="30"><u><strong>Total Fare(Rs.)</strong></u></td>
+			<td><u><strong>ID Proof </strong></u></td>
+			<td><u><strong>ID Number</strong></u></td>
+	   </tr>
+	   <tr>
+			<td>3,360.00</td>
+			<td>Pan Card</td>
+			<td>ADIPK9366N</td>	 
+	   </tr>
+   	   <tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+	   </tr>
+	</table>
+        <hr noshade color="#ffffff" size="0" style="border-bottom: 1px dashed #CCCCCC;">
+    <h2 style="color:#000000 !important;"><u>Hotel Details</u></h2>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0; padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;">
+	   <tr>
+		  <td width="20%" align="left" height="28"><u><strong>Hotel Name</strong></u></td>
+          <td width="15%" align="left"><u><strong>Check-In Date</strong></u></td>
+		  <td width="15%" align="center"><u><strong>Check-Out Date</strong></u></td>
+		  <td width="12%" align="center"><u><strong>Persons</strong></u></td>
+          		  <td width="20%" align="center"><u><strong>Same Day Check-Out</strong></u></td>
+		            <td width="28%" align="center"><u><strong>Hotel Charge</strong></u></td>
+	   </tr>
+	   <tr>
+       	  <td align="left">Hotel Sai Gurusthan</td>
+		  <td align="left">2018-12-25</td>
+		  <td align="center">2018-12-25</td>
+		  <td align="center">2</td>
+                    <td align="center">07:00 AM To 07:00 PM</td>
+                     <td align="center">Rs. 1,600.00</td>
+	   </tr>
+	</table><br>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0; padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;">
+        <tr>
+        	<hr noshade color="#ffffff" size="0" style="border-bottom: 1px dashed #CCCCCC;">
+           <td width="50%" align="left" height="28"><u><strong>Total Fare (Bus Fare + Hotel Charge)</strong></u></td> 
+        </tr>
+        <tr>
+           <td align="left">				  <b>Rs. 4,960.00</b>
+           </td>
+        </tr>	
+    </table>
+     </div>
+ <div style="margin:0; padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;margin-top:10px;">
+	<u><strong>Terms and conditions </strong></u>
+	<div style="text-align:justify;" class="mt10"><strong>SVR Travels India*</strong> is only a bus ticket agent. It does not operate bus services of its own. In order to provide a comprehensive choice of bus operators, departure times and prices to customers, it has tied up with many bus operators. SVR Travels India advice to customers is to choose bus operators they are aware of and whose service they are comfortable with.</div>
+	<div style="text-align:justify;" class="mt10 mb10"><strong>Any issues or grievances related to travel or operator will be entertained within 10 days of post journey. In any case the liability will not be more than the ticket fare.</strong></div>
+	<div style="clear:both;"></div>
+	<div style="width:350px; float:left; line-height:20px;">
+	   <u><strong>SVR Travels India is responsible for</strong></u><br />
+	   (1) Issuing a valid ticket (a ticket that will be accepted by the bus operator) for its' network of bus operators.<br />
+	   (2) Providing refund and support in the event of cancellation<br />
+	   (3) Providing customer support and information in case of any delays / inconvenience<br />
+	   <br />
+	   <u><strong>SVR Travels India is not responsible for</strong></u><br />
+	   (1) The bus operator's bus not departing / reaching on time<br />
+	   (2) The bus operator's employees being rude<br />
+	   (3) The bus operator's bus seats etc not being up to the customer's expectation<br />
+	   (4) The bus operator canceling the trip due to unavoidable reasons 
+	</div>
+		<div style="width:375px;float:right;margin:0;padding:0;color:#333;font:normal 13px Arial, Helvetica, sans-serif;margin-top:10px;">
+	   <u><strong>Cancellation Policy</strong></u><br />
+	   <style>table{font:13px Arial, Helvetica, sans-serif;}</style>
+	   	   <table width="100%" cellpadding= cellspacing= class=><tr height=25><th align="left">Cancellation Time</th><th align="left">Charges</th></tr><tr height=25><td>Between 24/12/18 3:00 PM and 24/12/18 9:00 PM</td><td>100%</td></tr><tr height=25><td> Between 23/12/18 9:00 PM and 24/12/18 3:00 PM</td><td>30%</td></tr><tr height=25><td>Before 23/12/18 9:00 PM</td><td>15%</td></tr><tr><td colspan=2><b><strong>* Partial cancellation is  allowed for this ticket.</strong></b></td></tr></table>	</div>
+	 </div>
+ <div style="clear:both;"></div>
+</div>
+<!--</div>-->
+</td></tr>
+
+
+</table>
+
+
+
+
+--D22008AA6.1545326296/gateway22.websitewelcome.com--

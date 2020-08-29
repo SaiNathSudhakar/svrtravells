@@ -1,0 +1,30 @@
+; cPanel first:11.60.0.46 (update_time):1502689372 Cpanel::ZoneFile::VERSION:1.3 hostname:prizm.websitewelcome.com latest:11.60.0.46
+; Zone file for svrtravelsindia.com
+$TTL 14400
+svrtravelsindia.com.	86400	IN	SOA	ns1.bitrawebhosting.com.	support.bitrawebhosting.com.	(
+						2017081106 ;Serial Number
+						86400 ;refresh
+						7200 ;retry
+						3600000 ;expire
+						86400 ;minimum
+	)
+svrtravelsindia.com.	86400	IN	NS	ns1.bitrawebhosting.com.
+svrtravelsindia.com.	86400	IN	NS	ns2.bitrawebhosting.com.
+svrtravelsindia.com.	14400	IN	A	192.185.116.151
+localhost	14400	IN	A	127.0.0.1
+svrtravelsindia.com.	14400	IN	MX	1	aspmx.l.google.com.
+mail	14400	IN	CNAME	ghs.googlehosted.com.
+www	14400	IN	CNAME	svrtravelsindia.com.
+ftp	14400	IN	CNAME	svrtravelsindia.com.
+cpanel	14400	IN	CNAME	svrtravelsindia.com.
+webmail	14400	IN	CNAME	svrtravelsindia.com.
+svrtravelsindia.com.	14400	IN	TXT	"v=spf1 include:aspmx.googlemail.com ~all"
+webdisk	14400	IN	A	192.185.116.151
+cpcalendars	14400	IN	A	192.185.116.151
+cpcontacts	14400	IN	A	192.185.116.151
+whm	14400	IN	A	192.185.116.151
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv2AtrkosCWshleIDvteGStd3HQ7XpToCcRdVzrOjpjzXR7VR7E2pNA77Z4pJog91H2if8RmTCg87ecyLRJEsVxqyndSdleRnl/U/37HlMSXD6tUhxC2Nti3j6vh/jUAq+8WdMsLGRHkOTwyDc+06jZoIISMliR9MHBPVWu6cLwSPxkA4aEHg2q5dI5A9QOTQu" 4Fc4WKn1GkwkqA0IdxEhK5AaDaQipFs490LIqePWT2yfsBN+SV1zoqmMFSwg111++8MRgCbecIrNpdOIvO4gKKnf4peF8SRqKGAHOta8MAmciCfTojjWxnjp8Y4rFbS37Hs8T+rIvbaF7S+IKeFKwIDAQAB\;
+svrtravelsindia.com.	14400	IN	MX	5	alt1.aspmx.l.google.com.
+svrtravelsindia.com.	14400	IN	MX	5	alt2.aspmx.l.google.com.
+svrtravelsindia.com.	14400	IN	MX	10	alt3.aspmx.l.google.com.
+svrtravelsindia.com.	14400	IN	MX	10	alt4.aspmx.l.google.com.

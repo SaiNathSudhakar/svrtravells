@@ -1,0 +1,206 @@
+Return-Path: <>
+Delivered-To: svrtravelsindia@prizm.websitewelcome.com
+Received: from prizm.websitewelcome.com
+	by prizm.websitewelcome.com with LMTP
+	id SC7QNiKv91xV4QoAu/fNIw
+	(envelope-from <>)
+	for <svrtravelsindia@prizm.websitewelcome.com>; Wed, 05 Jun 2019 07:01:38 -0500
+Return-path: <>
+Envelope-to: svrtravelsindia@prizm.websitewelcome.com
+Delivery-date: Wed, 05 Jun 2019 07:01:38 -0500
+Received: from gateway34.websitewelcome.com ([192.185.148.119]:48599)
+	by prizm.websitewelcome.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	id 1hYUbq-0031tz-Sl
+	for svrtravelsindia@prizm.websitewelcome.com; Wed, 05 Jun 2019 07:01:38 -0500
+Received: by gateway34.websitewelcome.com (Postfix)
+	id CD81D1AF9; Wed,  5 Jun 2019 07:01:38 -0500 (CDT)
+Date: Wed,  5 Jun 2019 07:01:38 -0500 (CDT)
+From: MAILER-DAEMON@gateway34.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: svrtravelsindia@prizm.websitewelcome.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="A8F871AF0.1559736098/gateway34.websitewelcome.com"
+Message-Id: <20190605120138.CD81D1AF9@gateway34.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--A8F871AF0.1559736098/gateway34.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway34.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<info@svrtravelsindia.com>: host aspmx.l.google.com[108.177.8.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser f6si7716794otb.252 - gsmtp
+    (in reply to RCPT TO command)
+
+--A8F871AF0.1559736098/gateway34.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway34.websitewelcome.com
+X-Postfix-Queue-ID: A8F871AF0
+X-Postfix-Sender: rfc822; svrtravelsindia@prizm.websitewelcome.com
+Arrival-Date: Wed,  5 Jun 2019 07:01:38 -0500 (CDT)
+
+Final-Recipient: rfc822; info@svrtravelsindia.com
+Original-Recipient: rfc822;info@svrtravelsindia.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; aspmx.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser f6si7716794otb.252 - gsmtp
+
+--A8F871AF0.1559736098/gateway34.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <svrtravelsindia@prizm.websitewelcome.com>
+Received: from cm12.websitewelcome.com (cm12.websitewelcome.com [100.42.49.8])
+	by gateway34.websitewelcome.com (Postfix) with ESMTP id A8F871AF0
+	for <info@svrtravelsindia.com>; Wed,  5 Jun 2019 07:01:38 -0500 (CDT)
+Received: from prizm.websitewelcome.com ([192.185.12.45])
+	by cmsmtp with SMTP
+	id YUbqhQNVMiQerYUbqhzZfu; Wed, 05 Jun 2019 07:01:38 -0500
+X-Authority-Reason: nr=8
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=svrtravelsindia.com; s=default; h=Date:Message-Id:From:Content-type:
+	MIME-Version:Subject:To:Sender:Reply-To:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=YL9WU2e5uCoNaykzU1O6loYOkra01Lxn4eiLiWahZgk=; b=dzxHyoA7tGHLiFy2ftsyjb1AR
+	5Fg6CRpl3nEhmQawk/DQ/wUqeGkszO8P/e9Vb9/P8owggGXp/FlXF7lwRDDOikEa97Sp1jxYwJ/7F
+	Pj7u6Eh9UT6TmRCrMlnsUNBq/+iDLoD6M8zjKerD+U9f6H6uuWq5zyuNA8MzyZrnKN6Xo/z7cnJqt
+	D85DyQNJV4Y9pi6O/vVRYDIs1m35bmqAkeqTaap3sMuqvoubmCkz83BfLfVlg4OpJGGEcjG5XsyDT
+	sLOWpGzNqQkRDABjJbX8jOuw3AG1wBcvT4V6rf1p/bOXW5MGDDBgZKAiXIkBsXQUQr6R90oeomK3Z
+	NMzWCxOPA==;
+Received: from svrtravelsindia by prizm.websitewelcome.com with local (Exim 4.91)
+	(envelope-from <svrtravelsindia@prizm.websitewelcome.com>)
+	id 1hYUbq-0031qR-5B; Wed, 05 Jun 2019 07:01:38 -0500
+To: info@svrtravelsindia.com,sales@svrtravelsindia.com,jani@svrtravelsindia.com
+Subject: Flight Enquiry Details From SVR Travels India
+X-PHP-Script: www.svrtravelsindia.com/flight.php for 157.48.6.233
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: SVR Travels India <dsnr@svrtravelsindia.com> 
+Message-Id: <E1hYUbq-0031qR-5B@prizm.websitewelcome.com>
+Date: Wed, 05 Jun 2019 07:01:38 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - prizm.websitewelcome.com
+X-AntiAbuse: Original Domain - svrtravelsindia.com
+X-AntiAbuse: Originator/Caller UID/GID - [12673 32002] / [47 12]
+X-AntiAbuse: Sender Address Domain - prizm.websitewelcome.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1hYUbq-0031qR-5B
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: svrtravelsindia.com:/public_html
+X-Source-Sender: 
+X-Source-Auth: svrtravelsindia
+X-Email-Count: 5
+X-Org: HG=hgreseller;ORG=hostgator;
+X-Source-Cap: c3ZydHJhdmVsc2luZGlhO2JpdHJhd2ViO3ByaXptLndlYnNpdGV3ZWxjb21lLmNvbQ==
+X-Local-Domain: yes
+
+<style type='text/css'>
+	table, td, th { font-family: Verdana; font-size:12px; }
+	.clr { color: #FFFFFF; font-weight: bold; }</style>
+	<table width='500' border='0' align='center' cellpadding='5' cellspacing='0' style='border-bottom:2px solid #aaa'>	
+	  <tr>
+		<td height='30' align='center' valign='middle' bgcolor='#F2F2F2'>
+			<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+			  <tr>
+				<td align='center' valign='top'><a href='http://www.svrtravelsindia.com/' target='_blank'>
+				<img src='http://www.svrtravelsindia.com/images/svr-travels.jpg' alt='svrtravelsindia' border='0' /></a></td>
+			  </tr>
+			  <tr>
+				<td align='center' valign='middle' bgcolor='#D50000'><table width='100%' border='0' cellspacing='0' cellpadding='0'>
+				  <tr>
+					<td height='40' align='center' valign='middle'>
+						<span class='clr' style='color: #FFFFFF; font-weight: bold;'>Flight Enquiry Details From SVR Travels India</span>
+					</td>
+				  </tr>
+				</table>			  
+				</td>
+			  </tr>
+			</table>			
+		</td>
+	  </tr>
+	  <tr>
+		<td align='center' valign='top' bgcolor='#F2F2F2'><table width='100%' border='0' align='center' cellpadding='6' cellspacing='2' style='margin:10px;'>
+		 <tr>
+			<td width='25%'><strong>From Date</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>06-Jun-19</td>
+		  </tr>
+		 <tr>
+			<td width='25%'><strong>To Date</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>09-Jun-19</td>
+		  </tr>
+		  <tr>
+			<td width='25%'><strong>Name</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>Kalpana</td>
+		  </tr>
+		  <tr>
+			<td width='25%'><strong>No. of People</strong></td>
+			<td width='3%' align='center'><strong>:</strong></td>
+			<td align='left'>3</td>
+		  </tr>
+		  <tr>
+			<td ><strong>Phone</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>7288800095</td>
+		  </tr>
+		  <tr>
+			<td><strong>E-Mail</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>gkalpana57@gmail.com</td>
+		  </tr>
+		  <tr>
+			<td nowrap='nowrap'><strong>Address</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>Hyderabad</td>
+		  </tr>
+		  <tr>
+			<td><strong>City</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>Hyderabad</td>
+		  </tr>
+		  <tr >
+			<td nowrap='nowrap'><strong>State</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>Telangana</td>
+		  </tr>
+		  <tr>
+			<td nowrap='nowrap'><strong>Country</strong></td>
+			<td align='center'><strong>:</strong></td>
+			<td align='left'>India</td>
+		  </tr>
+		  </table></td>
+	  </tr>
+	</table>
+
+--A8F871AF0.1559736098/gateway34.websitewelcome.com--

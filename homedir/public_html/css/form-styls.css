@@ -1,0 +1,59 @@
+.form_styles input{
+	margin-bottom:0.50em;
+}
+.form_wrapper{
+	background:#e6e6e6;
+	padding:1em;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+input[type="text"], input[type="password"], input[type="email"], textarea, select {
+    padding: 0.40em 0;
+    outline: medium none;
+	text-indent:.50em;
+    color: #666;
+    width: 100%;
+    background: #FFF;
+    box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.06) inset;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #E0E0E0;
+	font-family: "Open Sans",  Helvetica, Arial, sans-serif;
+	font-size:13px;
+}
+input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, textarea:focus, select:focus {
+  border: 1px solid rgba(132, 187, 243, 1);
+  box-shadow:0 0 2px #9ecaed;
+}
+input[type="button1"], input[type="submit"], .btn_cancel{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	box-shadow: 0px 2px 1px rgba(0,0,0,0.20);
+	margin:10px 0 3px 0;
+	color: #FFF;
+	border: 1px solid #14335D;
+	padding:3px 10px 3px 10px;
+	font-size: 16px !important;
+	line-height: 30px;
+	text-align: center;
+	background:#14335D;
+	text-decoration:none;
+	font-family: "Open Sans",  Helvetica, Arial, sans-serif;
+	cursor:pointer;
+}
+input[type="button1"]:hover, input[type="submit"]:hover, .btn_cancel{
+	background:  rgba(228,0,17,74.90);
+}
+input[type="button1"]:active, input[type="submit"]:active, .btn_cancel{
+	position:relative;
+	top:1px;
+}
+.captd {margin-top:0.80em;}
+.captd td{padding:0 .50em 0 0;}
+.capthca_img{
+	cursor:pointer;
+	margin:-5px 0 0 0;
+}
